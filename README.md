@@ -4,9 +4,19 @@ Awesome blogs I've read
 # Javascript
 + [A guide to publishing JavaScript open source projects](http://www.conductor.com/nightlight/guide-publishing-javascript-open-source-projects/)
 
+# C++
++ [Why C++ never dies](http://www.viva64.com/en/b/0324/)
+
+# Web
++ [危险的上传对话框](http://www.cnblogs.com/index-html/p/dialog-phishing.html)
+
+# Database
++ [从NoSQL的历史看未来](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=209753217&idx=1&sn=d3a021a7bd959cbf92ffc658336b2387)
+
 # Architecture
 + [A Brief History of Scaling LinkedIn](http://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 + [The Tumblr Architecture Yahoo Bought For A Cool Billion Dollars](http://highscalability.com/blog/2013/5/20/the-tumblr-architecture-yahoo-bought-for-a-cool-billion-doll.html)
++ [scalability-availability-stability-patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns)
 
 # Cloud App
 + [The Twelve-factor Apps](http://12factor.net/)
@@ -35,10 +45,16 @@ Awesome blogs I've read
 + [Microservice vs SOA](http://martinfowler.com/bliki/ServiceOrientedAmbiguity.html)
 + [Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith)
 + [How we build microservices at Karma](https://blog.yourkarma.com/building-microservices-at-karma)
++ [Microservices and the First Law of Distributed Objects](http://martinfowler.com/articles/distributed-objects-microservices.html)
+    + Don't try to encapuslate things which are indeed different, e.g. in-process calls and remote calls
+    + Monolith vs microservice: it depends and take care of the tradeoff.
 
 # Load balancing and Cache
 + [HAProxy](http://www.haproxy.org/)
 + [Varnish](https://www.varnish-cache.org/)
+
+# Container
++ [Docker in the Real World at Yelp](http://engineeringblog.yelp.com/2015/08/docker-in-the-real-world-at-yelp.html)
 
 # Deployment automation tools
 + [Chef](https://www.chef.io/)
@@ -46,3 +62,6 @@ Awesome blogs I've read
 + [Fabric](http://www.fabfile.org/)
 + [Ansible](http://www.ansible.com)
 + [Supervisor](http://supervisord.org/introduction.html)
+
+# CSS
++ [CSS 核心概念](http://www.geekplux.com/2014/04/25/several_core_concepts_of_css.html)
