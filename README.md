@@ -9,6 +9,7 @@ Awesome blogs I've read
 
 # Web
 + [危险的上传对话框](http://www.cnblogs.com/index-html/p/dialog-phishing.html)
++ [The Challenge of Dynamically Generating Static Content](https://zoompf.com/blog/2009/12/the-challenge-of-dynamically-generating-static-content): Do not generate static content at runtime!
 
 # Database
 + [从NoSQL的历史看未来](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=209753217&idx=1&sn=d3a021a7bd959cbf92ffc658336b2387)
