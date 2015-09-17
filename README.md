@@ -19,6 +19,7 @@ Awesome blogs I've read
 + [A Brief History of Scaling LinkedIn](http://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 + [The Tumblr Architecture Yahoo Bought For A Cool Billion Dollars](http://highscalability.com/blog/2013/5/20/the-tumblr-architecture-yahoo-bought-for-a-cool-billion-doll.html)
 + [scalability-availability-stability-patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns)
++ [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-Unix-philosophy-of-distributed-data): Kafka as a pipe in distributed systems
 
 ## PhoenixServer
 + [ConfigurationDrift](http://kief.com/configuration-drift.html)
