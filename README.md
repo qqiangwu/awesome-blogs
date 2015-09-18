@@ -7,6 +7,9 @@ Awesome blogs I've read
 # C++
 + [Why C++ never dies](http://www.viva64.com/en/b/0324/)
 
+# Parallelism
++ [Parallelism in one line](http://chriskiehl.com/article/parallelism-in-one-line/): so think about parallelism and distributed systems.
+
 # Web
 + [危险的上传对话框](http://www.cnblogs.com/index-html/p/dialog-phishing.html)
 + [The Challenge of Dynamically Generating Static Content](https://zoompf.com/blog/2009/12/the-challenge-of-dynamically-generating-static-content): Do not generate static content at runtime!
