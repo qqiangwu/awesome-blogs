@@ -1,19 +1,6 @@
 # Awesome blogs
 Awesome blogs I've read
 
-# Javascript
-+ [A guide to publishing JavaScript open source projects](http://www.conductor.com/nightlight/guide-publishing-javascript-open-source-projects/)
-
-# C++
-+ [Why C++ never dies](http://www.viva64.com/en/b/0324/)
-
-# Parallelism
-+ [Parallelism in one line](http://chriskiehl.com/article/parallelism-in-one-line/): so think about parallelism and distributed systems.
-
-# Web
-+ [危险的上传对话框](http://www.cnblogs.com/index-html/p/dialog-phishing.html)
-+ [The Challenge of Dynamically Generating Static Content](https://zoompf.com/blog/2009/12/the-challenge-of-dynamically-generating-static-content): Do not generate static content at runtime!
-
 # Database
 + [从NoSQL的历史看未来](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=209753217&idx=1&sn=d3a021a7bd959cbf92ffc658336b2387)
 + [海量数据存储by淘宝沈询](http://blog.sina.com.cn/s/articlelist_1765738567_0_1.html)
@@ -72,6 +59,13 @@ Awesome blogs I've read
 + [Docker in the Real World at Yelp](http://engineeringblog.yelp.com/2015/08/docker-in-the-real-world-at-yelp.html)
 + [Tutorial by serversforhackers](https://serversforhackers.com/getting-started-with-docker/)
 
+# Parallelism
++ [Parallelism in one line](http://chriskiehl.com/article/parallelism-in-one-line/): so think about parallelism and distributed systems.
+
+# Web
++ [危险的上传对话框](http://www.cnblogs.com/index-html/p/dialog-phishing.html)
++ [The Challenge of Dynamically Generating Static Content](https://zoompf.com/blog/2009/12/the-challenge-of-dynamically-generating-static-content): Do not generate static content at runtime!
+
 # Deployment automation tools
 + [Chef](https://www.chef.io/)
 + [Puppet](https://puppetlabs.com/)
@@ -81,3 +75,9 @@ Awesome blogs I've read
 
 # CSS
 + [CSS 核心概念](http://www.geekplux.com/2014/04/25/several_core_concepts_of_css.html)
+
+# Javascript
++ [A guide to publishing JavaScript open source projects](http://www.conductor.com/nightlight/guide-publishing-javascript-open-source-projects/)
+
+# C++
++ [Why C++ never dies](http://www.viva64.com/en/b/0324/)
