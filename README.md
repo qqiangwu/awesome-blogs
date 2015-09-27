@@ -23,6 +23,8 @@ Awesome blogs I've read
 + [The Tumblr Architecture Yahoo Bought For A Cool Billion Dollars](http://highscalability.com/blog/2013/5/20/the-tumblr-architecture-yahoo-bought-for-a-cool-billion-doll.html)
 + [scalability-availability-stability-patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns)
 + [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-Unix-philosophy-of-distributed-data): Kafka as a pipe in distributed systems
++ [Putting Apache Kafka To Use: A Practical Guide to Building a Stream Data Platform: Part1](http://www.confluent.io/blog/stream-data-platform-1/)
++ [Putting Apache Kafka To Use: A Practical Guide to Building a Stream Data Platform: Part2](http://www.confluent.io/blog/stream-data-platform-2/)
 
 ## PhoenixServer
 + [ConfigurationDrift](http://kief.com/configuration-drift.html)
