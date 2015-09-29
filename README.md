@@ -51,6 +51,9 @@ Awesome blogs I've read
     + Don't try to encapuslate things which are indeed different, e.g. in-process calls and remote calls
     + Monolith vs microservice: it depends and take care of the tradeoff.
 
+# Concurrency
++ [An introduction to simpler concurrency abstractions](http://timperrett.com/2012/04/27/introduction-to-simpler-concurrency-abstractions/)
+
 # Load balancing and Cache
 + [HAProxy](http://www.haproxy.org/)
 + [Varnish](https://www.varnish-cache.org/)
