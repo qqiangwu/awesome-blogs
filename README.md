@@ -53,6 +53,7 @@ Awesome blogs I've read
 
 # Concurrency
 + [An introduction to simpler concurrency abstractions](http://timperrett.com/2012/04/27/introduction-to-simpler-concurrency-abstractions/)
++ [Boost.Actor](http://neverlord.github.io/boost.actor/manual/)
 
 # Load balancing and Cache
 + [HAProxy](http://www.haproxy.org/)
