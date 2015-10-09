@@ -62,6 +62,7 @@ Awesome blogs I've read
 # Container
 + [Docker in the Real World at Yelp](http://engineeringblog.yelp.com/2015/08/docker-in-the-real-world-at-yelp.html)
 + [Tutorial by serversforhackers](https://serversforhackers.com/getting-started-with-docker/)
++ [The Docker Book](http://www.dockerbook.com/)
 
 # Parallelism
 + [Parallelism in one line](http://chriskiehl.com/article/parallelism-in-one-line/): so think about parallelism and distributed systems.
