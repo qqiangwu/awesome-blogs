@@ -67,6 +67,10 @@ Awesome blogs I've read
 # Parallelism
 + [Parallelism in one line](http://chriskiehl.com/article/parallelism-in-one-line/): so think about parallelism and distributed systems.
 
+# API Design
++ [Secure API via Nginx](https://www.nginx.com/resources/admin-guide/restricting-access/)
++ [Secure API via OAuth](nordicapis.com/how-to-control-user-identity-within-microservices/)
+ 
 # Web
 + [危险的上传对话框](http://www.cnblogs.com/index-html/p/dialog-phishing.html)
 + [The Challenge of Dynamically Generating Static Content](https://zoompf.com/blog/2009/12/the-challenge-of-dynamically-generating-static-content): Do not generate static content at runtime!
