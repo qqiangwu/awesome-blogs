@@ -74,6 +74,7 @@ Awesome blogs I've read
 # API Design
 + [Secure API via Nginx](https://www.nginx.com/resources/admin-guide/restricting-access/)
 + [Secure API via OAuth](nordicapis.com/how-to-control-user-identity-within-microservices/)
++ [How We Solved Authentication and Authorization in Our Microservices Architecture](https://www.appsflyer.com/blog/how-we-solved-authentication-and-authorization-in-our-microservices-architecture/)
  
 # Web
 + [危险的上传对话框](http://www.cnblogs.com/index-html/p/dialog-phishing.html)
