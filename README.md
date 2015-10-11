@@ -33,6 +33,10 @@ Awesome blogs I've read
 # Cloud Messaging
 + [Evolution of AMQP at SoundCloud](http://www.infoq.com/presentations/amqp-soundcloud)
 
+# Service Discovery
++ [Open-Source Service Discovery](http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/)
++ [Cluster: Provision & Discovery with Ansible & Consul](https://medium.com/@name_alari/cluster-provision-discovery-with-ansible-consul-377b473c934c)
+
 # Realtime application basis
 + [600k concurrent websocket connections on AWS using Node.js](http://www.jayway.com/2015/04/13/600k-concurrent-websocket-connections-on-aws-using-node-js/)
 + [Socket options SO_REUSEADDR and SO_REUSEPORT, how do they differ? Do they mean the same across all major operating systems?](http://stackoverflow.com/questions/14388706/socket-options-so-reuseaddr-and-so-reuseport-how-do-they-differ-do-they-mean-t)
