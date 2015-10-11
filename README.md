@@ -4,6 +4,7 @@ Awesome blogs I've read
 # Database
 + [从NoSQL的历史看未来](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=209753217&idx=1&sn=d3a021a7bd959cbf92ffc658336b2387)
 + [海量数据存储by淘宝沈询](http://blog.sina.com.cn/s/articlelist_1765738567_0_1.html)
++ [Distributed ID Generation](http://instagram-engineering.tumblr.com/post/10853187575/sharding-ids-at-instagram)
 
 # Architecture
 + [A Brief History of Scaling LinkedIn](http://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
