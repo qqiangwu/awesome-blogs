@@ -12,6 +12,7 @@ Awesome blogs I've read
 + [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-Unix-philosophy-of-distributed-data): Kafka as a pipe in distributed systems
 + [Putting Apache Kafka To Use: A Practical Guide to Building a Stream Data Platform: Part1](http://www.confluent.io/blog/stream-data-platform-1/)
 + [Putting Apache Kafka To Use: A Practical Guide to Building a Stream Data Platform: Part2](http://www.confluent.io/blog/stream-data-platform-2/)
++ [What Powers Instagram: Hundreds of Instances, Dozens of Technologies](http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances)
 
 ## PhoenixServer
 + [ConfigurationDrift](http://kief.com/configuration-drift.html)
