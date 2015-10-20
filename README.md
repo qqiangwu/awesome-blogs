@@ -28,6 +28,10 @@ Awesome blogs I've read
 + [Spring boot](http://docs.spring.io/autorepo/docs/spring-boot/1.3.0.M4/reference/htmlsingle/)
 + [Spring cloud](http://projects.spring.io/spring-cloud/docs/1.0.3/spring-cloud.html)
 + [Automated Server Management Lifecycle](http://kief.com/automated-server-management-lifecycle.html)
++ [IntegrationDatabase](http://martinfowler.com/bliki/IntegrationDatabase.html): How to write an app with a database.
++ [ApplicationDatabase](http://martinfowler.com/bliki/ApplicationDatabase.html): How to write an app with a database.
++ [ReportingDatabase](http://martinfowler.com/bliki/ReportingDatabase.html): How to write an app with a database.
+
 
 # Cloud Logging
 + [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
