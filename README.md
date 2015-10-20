@@ -31,6 +31,7 @@ Awesome blogs I've read
 + [IntegrationDatabase](http://martinfowler.com/bliki/IntegrationDatabase.html): How to write an app with a database.
 + [ApplicationDatabase](http://martinfowler.com/bliki/ApplicationDatabase.html): How to write an app with a database.
 + [ReportingDatabase](http://martinfowler.com/bliki/ReportingDatabase.html): How to write an app with a database.
++ [EnterpriseApplication](http://martinfowler.com/bliki/EnterpriseApplication.html): I'd rather call it an Information System.
 
 
 # Cloud Logging
