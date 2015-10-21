@@ -32,7 +32,8 @@ Awesome blogs I've read
 + [ApplicationDatabase](http://martinfowler.com/bliki/ApplicationDatabase.html): How to write an app with a database.
 + [ReportingDatabase](http://martinfowler.com/bliki/ReportingDatabase.html): How to write an app with a database.
 + [EnterpriseApplication](http://martinfowler.com/bliki/EnterpriseApplication.html): I'd rather call it an Information System.
-
++ [Making the Netflix API More Resilient](http://techblog.netflix.com/2011/12/making-netflix-api-more-resilient.html)
++ [Fault Tolerance in a High Volume, Distributed System](http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html)
 
 # Cloud Logging
 + [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
