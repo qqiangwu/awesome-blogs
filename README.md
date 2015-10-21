@@ -85,6 +85,7 @@ Awesome blogs I've read
 + [How We Solved Authentication and Authorization in Our Microservices Architecture](https://www.appsflyer.com/blog/how-we-solved-authentication-and-authorization-in-our-microservices-architecture/)
 + [Making the Netflix API More Resilient](http://techblog.netflix.com/2011/12/making-netflix-api-more-resilient.html)
 + [Fault Tolerance in a High Volume, Distributed System](http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html) 
+    + You should be able to take your API under your control. God won't help you!
 
 # Web
 + [危险的上传对话框](http://www.cnblogs.com/index-html/p/dialog-phishing.html)
