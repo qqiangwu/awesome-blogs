@@ -15,6 +15,7 @@ Awesome blogs I've read
 + [Putting Apache Kafka To Use: A Practical Guide to Building a Stream Data Platform: Part2](http://www.confluent.io/blog/stream-data-platform-2/)
 + [What Powers Instagram: Hundreds of Instances, Dozens of Technologies](http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances)
 + [淘宝技术这十年](http://book.douban.com/subject/24335672/)
++ [Design Architecture Based on Core Use Cases](http://techblog.netflix.com/2015/01/netflixs-viewing-data-how-we-know-where.html)
 
 ## PhoenixServer
 + [ConfigurationDrift](http://kief.com/configuration-drift.html)
