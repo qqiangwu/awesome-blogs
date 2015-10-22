@@ -17,6 +17,7 @@ Awesome blogs I've read
 + [What Powers Instagram: Hundreds of Instances, Dozens of Technologies](http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances)
 + [淘宝技术这十年](http://book.douban.com/subject/24335672/)
 + [Design Architecture Based on Core Use Cases](http://techblog.netflix.com/2015/01/netflixs-viewing-data-how-we-know-where.html)
++ [The Many Faces of Apache Kafka: How is Kafka Used in Practice](http://www.infoq.com/presentations/kafka-big-data?utm_source=infoqEmail&utm_medium=WeeklyNL_EditorialContentArchitectureDesign&utm_campaign=09012015news&utm_content=a)
 
 ## PhoenixServer
 + [ConfigurationDrift](http://kief.com/configuration-drift.html)
