@@ -6,6 +6,7 @@ Awesome blogs I've read
 + [海量数据存储by淘宝沈询](http://blog.sina.com.cn/s/articlelist_1765738567_0_1.html)
 + [Distributed ID Generation](http://instagram-engineering.tumblr.com/post/10853187575/sharding-ids-at-instagram)
 + [PolyglotPersistence](http://martinfowler.com/bliki/PolyglotPersistence.html)
++ [如何对应大数据量网站的考验](http://blog.csdn.net/cutesource/article/details/5164516)
 
 # Architecture
 + [A Brief History of Scaling LinkedIn](http://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
