@@ -1,6 +1,9 @@
 # Awesome blogs
 Awesome blogs I've read
 
+# Distributed System
++ [Understanding CAP](http://henryr.github.io/cap-faq/)
+
 # Database
 + [从NoSQL的历史看未来](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=209753217&idx=1&sn=d3a021a7bd959cbf92ffc658336b2387)
 + [海量数据存储by淘宝沈询](http://blog.sina.com.cn/s/articlelist_1765738567_0_1.html)
