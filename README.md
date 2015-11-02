@@ -39,6 +39,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [ApplicationDatabase](http://martinfowler.com/bliki/ApplicationDatabase.html): How to write an app with a database.
 + [ReportingDatabase](http://martinfowler.com/bliki/ReportingDatabase.html): How to write an app with a database.
 + [EnterpriseApplication](http://martinfowler.com/bliki/EnterpriseApplication.html): I'd rather call it an Information System.
++ [静态博客高可用部署实践](http://blog.jamespan.me/2015/10/26/ha-deployment-for-blog/)
 
 # Cloud Logging
 + [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
