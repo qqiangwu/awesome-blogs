@@ -1,5 +1,5 @@
 # Awesome blogs
-Awesome blogs I've read
+The followings are awesome blogs or books I've read. I deem that they will be worth your time. Have a try!
 
 # Distributed System
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
