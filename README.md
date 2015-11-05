@@ -45,7 +45,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # Cloud Logging
 + [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 + [Logs Are Streams, Not Files](http://adam.herokuapp.com/)
-+ [Centralized Logging](http://jasonwilder.com/blog/2012/01/03/centralized-logging/)
++ [Centralized Logging](http://jasonwilder.com/blog/2012/01/03/centralized-logging/): How to cope with logging in a distributed system
 + [Centralized Logging Architecture](http://jasonwilder.com/blog/2013/07/16/centralized-logging-architecture/)
 
 # Cloud Messaging
