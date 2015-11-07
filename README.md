@@ -72,6 +72,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Microservices and the First Law of Distributed Objects](http://martinfowler.com/articles/distributed-objects-microservices.html)
     + Don't try to encapuslate things which are indeed different, e.g. in-process calls and remote calls
     + Monolith vs microservice: it depends and take care of the tradeoff.
++ [Adopting Microservices at Netflix: Lessons for Architectural Design](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
 
 # Concurrency
 + [An introduction to simpler concurrency abstractions](http://timperrett.com/2012/04/27/introduction-to-simpler-concurrency-abstractions/)
