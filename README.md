@@ -44,6 +44,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [静态博客高可用部署实践](http://blog.jamespan.me/2015/10/26/ha-deployment-for-blog/)
 + [Microservices without the Servers](http://aws.amazon.com/cn/blogs/compute/microservices-without-the-servers/)
 + [Netflix's Viewing Data: How We Know Where You Are in House of Cards](http://techblog.netflix.com/search/label/cloud%20architecture)
++ [Scaling Clearbit to 2M API Requests Per Day](http://stackshare.io/clearbit/scaling-clearbit-to-2m-api-requests-per-day)
 
 # Cloud Logging
 + [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
