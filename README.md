@@ -24,6 +24,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [The Many Faces of Apache Kafka: How is Kafka Used in Practice](http://www.infoq.com/presentations/kafka-big-data?utm_source=infoqEmail&utm_medium=WeeklyNL_EditorialContentArchitectureDesign&utm_campaign=09012015news&utm_content=a)
 + [It’s Time to Move to a Four-Tier Application Architecture](https://www.nginx.com/blog/time-to-move-to-a-four-tier-application-architecture/)
 + [YouTube Architecture](http://highscalability.com/youtube-architecture)
++ [Scaling Clearbit to 2M API Requests Per Day](http://stackshare.io/clearbit/scaling-clearbit-to-2m-api-requests-per-day)
 
 ## PhoenixServer
 + [ConfigurationDrift](http://kief.com/configuration-drift.html)
@@ -44,7 +45,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [静态博客高可用部署实践](http://blog.jamespan.me/2015/10/26/ha-deployment-for-blog/)
 + [Microservices without the Servers](http://aws.amazon.com/cn/blogs/compute/microservices-without-the-servers/)
 + [Netflix's Viewing Data: How We Know Where You Are in House of Cards](http://techblog.netflix.com/search/label/cloud%20architecture)
-+ [Scaling Clearbit to 2M API Requests Per Day](http://stackshare.io/clearbit/scaling-clearbit-to-2m-api-requests-per-day)
++ [MonolithFirst](http://martinfowler.com/bliki/MonolithFirst.html)
 
 # Cloud Logging
 + [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
