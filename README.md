@@ -1,6 +1,9 @@
 # Awesome blogs
 The followings are awesome blogs or books I've read. I deem that they will be worth your time. Have a try!
 
+# Learning
++ [Martyr2'S Mega Project Ideas List!](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
+
 # Distributed System
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
 
