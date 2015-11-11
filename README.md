@@ -25,6 +25,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [It’s Time to Move to a Four-Tier Application Architecture](https://www.nginx.com/blog/time-to-move-to-a-four-tier-application-architecture/)
 + [YouTube Architecture](http://highscalability.com/youtube-architecture)
 + [Scaling Clearbit to 2M API Requests Per Day](http://stackshare.io/clearbit/scaling-clearbit-to-2m-api-requests-per-day)
++ [How Mashape Manages Over 15,000 APIs & Microservices](http://stackshare.io/mashape/how-mashape-manages-over-15-000-apis-microservices)
 
 ## PhoenixServer
 + [ConfigurationDrift](http://kief.com/configuration-drift.html)
