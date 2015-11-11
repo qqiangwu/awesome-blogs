@@ -47,6 +47,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Microservices without the Servers](http://aws.amazon.com/cn/blogs/compute/microservices-without-the-servers/)
 + [Netflix's Viewing Data: How We Know Where You Are in House of Cards](http://techblog.netflix.com/search/label/cloud%20architecture)
 + [MonolithFirst](http://martinfowler.com/bliki/MonolithFirst.html)
++ [如何写出不可维护的服务端程序](http://yanyiwu.com/work/2014/03/03/ru-he-xie-chu-bu-ke-wei-hu-de-fu-wu.html)
 
 # Cloud Logging
 + [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
