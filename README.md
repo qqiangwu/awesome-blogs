@@ -17,6 +17,11 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # Cache
 + [Codis作者黄东旭细说分布式Redis架构设计和踩过的那些坑们](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=208733458&idx=1&sn=691bfde670fb2dd649685723f7358fea)
 
+# 4-Tiers
++ [前后端分离-从MVC到前后端分离](http://bbear.me/cong-mvcdao-qian-hou-duan-fen-chi/)
++ [前后端分离-Rest Api设计](http://bbear.me/qian-hou-duan-fen-chi-tr/)
++ [前后端分离-自动化打包](http://bbear.me/bu-yong-kai-fa-mo-shi-de-zi-dong-hua-bu-shu/)
+
 # Architecture
 + [A Brief History of Scaling LinkedIn](http://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 + [The Tumblr Architecture Yahoo Bought For A Cool Billion Dollars](http://highscalability.com/blog/2013/5/20/the-tumblr-architecture-yahoo-bought-for-a-cool-billion-doll.html)
