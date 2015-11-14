@@ -67,6 +67,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # Service Discovery
 + [Open-Source Service Discovery](http://jasonwilder.com/blog/2014/02/04/service-discovery-in-the-cloud/)
 + [Cluster: Provision & Discovery with Ansible & Consul](https://medium.com/@name_alari/cluster-provision-discovery-with-ansible-consul-377b473c934c)
++ [从理论到实践，全方位认识DNS（理论篇）](http://selfboot.cn/2015/11/05/dns_theory/)
++ [从理论到实践，全方位认识DNS（实践篇）](http://selfboot.cn/2015/11/14/dns_practice/)
 
 # Realtime application basis
 + [600k concurrent websocket connections on AWS using Node.js](http://www.jayway.com/2015/04/13/600k-concurrent-websocket-connections-on-aws-using-node-js/)
