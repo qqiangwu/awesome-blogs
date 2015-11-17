@@ -27,6 +27,10 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # REST Service
 + [RESTify-DayTrader](http://bitworking.org/news/201/RESTify-DayTrader)
 
+# Web Server
++ [系统负载能力浅析](http://www.rowkey.me/blog/2015/09/09/load-analysis/)
++ [使用四种框架分别实现百万websocket常连接的服务器](http://colobu.com/2015/05/22/implement-C1000K-servers-by-spray-netty-undertow-and-node-js/)
+
 # Architecture
 + [A Brief History of Scaling LinkedIn](http://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 + [The Tumblr Architecture Yahoo Bought For A Cool Billion Dollars](http://highscalability.com/blog/2013/5/20/the-tumblr-architecture-yahoo-bought-for-a-cool-billion-doll.html)
