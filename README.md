@@ -24,6 +24,9 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [前后端分离-自动化打包](http://bbear.me/bu-yong-kai-fa-mo-shi-de-zi-dong-hua-bu-shu/)
 + [前后端分离](http://ued.taobao.org/blog/tag/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB/)
 
+# REST Service
++ [RESTify-DayTrader](http://bitworking.org/news/201/RESTify-DayTrader)
+
 # Architecture
 + [A Brief History of Scaling LinkedIn](http://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 + [The Tumblr Architecture Yahoo Bought For A Cool Billion Dollars](http://highscalability.com/blog/2013/5/20/the-tumblr-architecture-yahoo-bought-for-a-cool-billion-doll.html)
