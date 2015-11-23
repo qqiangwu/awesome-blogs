@@ -8,6 +8,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
 
 # Database
++ [Redis In Action](http://www.amazon.com/Redis-Action-Josiah-L-Carlson/dp/1617290858)
 + [从NoSQL的历史看未来](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=209753217&idx=1&sn=d3a021a7bd959cbf92ffc658336b2387)
 + [海量数据存储by淘宝沈询](http://blog.sina.com.cn/s/articlelist_1765738567_0_1.html)
 + [Distributed ID Generation](http://instagram-engineering.tumblr.com/post/10853187575/sharding-ids-at-instagram)
@@ -23,6 +24,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [前后端分离-Rest Api设计](http://bbear.me/qian-hou-duan-fen-chi-tr/)
 + [前后端分离-自动化打包](http://bbear.me/bu-yong-kai-fa-mo-shi-de-zi-dong-hua-bu-shu/)
 + [前后端分离](http://ued.taobao.org/blog/tag/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB/)
++ [Building High Performance Web](https://read.douban.com/ebook/1410608/)
 
 # REST Service
 + [RESTify-DayTrader](http://bitworking.org/news/201/RESTify-DayTrader)
