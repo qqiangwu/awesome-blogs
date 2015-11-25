@@ -132,6 +132,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Fault Tolerance in a High Volume, Distributed System](http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html) 
     + You should be able to take your API under your control. God won't help you!
 + [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
++ [Token-Based Authentication With AngularJS & NodeJS](http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543): It works, but not optimal.
 
 # Web
 + [危险的上传对话框](http://www.cnblogs.com/index-html/p/dialog-phishing.html)
