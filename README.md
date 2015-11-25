@@ -37,6 +37,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [理想的应用框架](http://www.cnblogs.com/sskyy/p/4592353.html)
 
 # Architecture
++ [理想的应用框架](http://www.cnblogs.com/sskyy/p/4592353.html)
 + [A Brief History of Scaling LinkedIn](http://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
 + [The Tumblr Architecture Yahoo Bought For A Cool Billion Dollars](http://highscalability.com/blog/2013/5/20/the-tumblr-architecture-yahoo-bought-for-a-cool-billion-doll.html)
 + [scalability-availability-stability-patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns)
