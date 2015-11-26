@@ -82,6 +82,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Centralized Logging Architecture](http://jasonwilder.com/blog/2013/07/16/centralized-logging-architecture/)
 + [Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
 + [Logs as Data for Performance Visibility](https://blog.heroku.com/archives/2013/3/19/log2viz)
++ [Practical Logging and Metrics](https://hynek.me/talks/beyond-grep/)
++ [Metrics, Metrics, Everywhere](https://www.youtube.com/watch?v=czes-oa0yik)
 
 # Cloud Messaging
 + [Evolution of AMQP at SoundCloud](http://www.infoq.com/presentations/amqp-soundcloud)
