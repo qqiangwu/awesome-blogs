@@ -85,6 +85,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Practical Logging and Metrics](https://hynek.me/talks/beyond-grep/)
 + [Metrics, Metrics, Everywhere](https://www.youtube.com/watch?v=czes-oa0yik)
 + [5 Steps to Better Application Logging](http://www.miyagijournal.com/articles/five-steps-application-logging/)
++ [Logging best practices](http://dev.splunk.com/view/logging-best-practices/SP-CAAADP6)
 
 # Cloud Messaging
 + [Evolution of AMQP at SoundCloud](http://www.infoq.com/presentations/amqp-soundcloud)
