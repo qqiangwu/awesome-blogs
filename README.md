@@ -84,6 +84,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Logs as Data for Performance Visibility](https://blog.heroku.com/archives/2013/3/19/log2viz)
 + [Practical Logging and Metrics](https://hynek.me/talks/beyond-grep/)
 + [Metrics, Metrics, Everywhere](https://www.youtube.com/watch?v=czes-oa0yik)
++ [5 Steps to Better Application Logging](http://www.miyagijournal.com/articles/five-steps-application-logging/)
 
 # Cloud Messaging
 + [Evolution of AMQP at SoundCloud](http://www.infoq.com/presentations/amqp-soundcloud)
