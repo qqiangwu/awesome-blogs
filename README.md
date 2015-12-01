@@ -161,3 +161,6 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # C++
 + [Why C++ never dies](http://www.viva64.com/en/b/0324/)
+
+# Python
++ [PYTHON ECOSYSTEM: AN INTRODUCTION](http://mirnazim.org/writings/python-ecosystem-introduction/)
