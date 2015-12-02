@@ -163,6 +163,9 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # C++
 + [Why C++ never dies](http://www.viva64.com/en/b/0324/)
 
+# Java
++ [Spring Framework的核心源码解读](http://yuezaixz.logdown.com/tags/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
+
 # Python
 + [PYTHON ECOSYSTEM: AN INTRODUCTION](http://mirnazim.org/writings/python-ecosystem-introduction/)
 
