@@ -167,3 +167,6 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Kotline
 + [Why Kotlin is my next programming language](https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3#.8x1gkgz51)
+
+# Exception Handling
++ [Java 理论与实践: 关于异常的争论](https://www.ibm.com/developerworks/cn/java/j-jtp05254/)
