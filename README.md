@@ -118,6 +118,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # Concurrency
 + [An introduction to simpler concurrency abstractions](http://timperrett.com/2012/04/27/introduction-to-simpler-concurrency-abstractions/)
 + [Boost.Actor](http://neverlord.github.io/boost.actor/manual/)
++ [Java ThreadPool的正确打开方式](http://calvin1978.blogcn.com/articles/java-threadpool.html)
 
 # Load balancing and Cache
 + [HAProxy](http://www.haproxy.org/)
