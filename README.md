@@ -164,3 +164,6 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Python
 + [PYTHON ECOSYSTEM: AN INTRODUCTION](http://mirnazim.org/writings/python-ecosystem-introduction/)
+
+# Kotline
++ [Why Kotlin is my next programming language](https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3#.8x1gkgz51)
