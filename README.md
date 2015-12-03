@@ -167,6 +167,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Spring Framework的核心源码解读](http://yuezaixz.logdown.com/tags/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
 + [Spring AOP](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html)
 + [Spring AOP API](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop-api.html)
++ [Spring @Enable*](http://blog.fawnanddoug.com/2012/08/how-those-spring-enable-annotations-work.html)
 
 # Python
 + [PYTHON ECOSYSTEM: AN INTRODUCTION](http://mirnazim.org/writings/python-ecosystem-introduction/)
