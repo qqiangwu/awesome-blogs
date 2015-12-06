@@ -53,6 +53,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Scaling Clearbit to 2M API Requests Per Day](http://stackshare.io/clearbit/scaling-clearbit-to-2m-api-requests-per-day)
 + [How Mashape Manages Over 15,000 APIs & Microservices](http://stackshare.io/mashape/how-mashape-manages-over-15-000-apis-microservices)
 + [Why dual writes are a bad idea](http://www.confluent.io/blog/using-logs-to-build-a-solid-data-infrastructure-or-why-dual-writes-are-a-bad-idea/)
++ [SacrificialArchitecture](http://martinfowler.com/bliki/SacrificialArchitecture.html)
 
 ## PhoenixServer
 + [ConfigurationDrift](http://kief.com/configuration-drift.html)
