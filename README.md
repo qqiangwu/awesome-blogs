@@ -134,6 +134,9 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Tutorial by serversforhackers](https://serversforhackers.com/getting-started-with-docker/)
 + [The Docker Book](http://www.dockerbook.com/)
 
+# CaaS
++ [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
+
 # Parallelism
 + [Parallelism in one line](http://chriskiehl.com/article/parallelism-in-one-line/): so think about parallelism and distributed systems.
 
