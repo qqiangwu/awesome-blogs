@@ -136,6 +136,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # CaaS
 + [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
++ [浅谈Borg/YARN/Mesos/Torca/Corona一类系统](http://dongxicheng.org/mapreduce-nextgen/borg-yarn-mesos-torca-corona/)
 
 # Parallelism
 + [Parallelism in one line](http://chriskiehl.com/article/parallelism-in-one-line/): so think about parallelism and distributed systems.
