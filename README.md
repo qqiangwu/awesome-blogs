@@ -3,6 +3,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Learning
 + [Martyr2'S Mega Project Ideas List!](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
++ [A Python Interpreter Written in Python](http://aosabook.org/en/500L/pages/a-python-interpreter-written-in-python.html)
 
 # Distributed System
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
