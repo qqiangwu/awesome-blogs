@@ -176,6 +176,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Spring AOP](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop.html)
 + [Spring AOP API](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/aop-api.html)
 + [Spring @Enable*](http://blog.fawnanddoug.com/2012/08/how-those-spring-enable-annotations-work.html)
++ [StringBuilder在高性能场景下的正确用法](http://calvin1978.blogcn.com/articles/stringbuilder.html)
 
 # Python
 + [PYTHON ECOSYSTEM: AN INTRODUCTION](http://mirnazim.org/writings/python-ecosystem-introduction/)
