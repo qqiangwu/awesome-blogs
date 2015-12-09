@@ -136,6 +136,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
 + [浅谈Borg/YARN/Mesos/Torca/Corona一类系统](http://dongxicheng.org/mapreduce-nextgen/borg-yarn-mesos-torca-corona/)
 + [Torca：Typhoon上的分布式集群调度系统](http://djt.qq.com/article/view/329)
++ [Borg和Kubernetes有什么不同以及未来的云需要什么？](http://dockone.io/article/784?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # Parallelism
 + [Parallelism in one line](http://chriskiehl.com/article/parallelism-in-one-line/): so think about parallelism and distributed systems.
