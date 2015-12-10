@@ -131,6 +131,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Docker in the Real World at Yelp](http://engineeringblog.yelp.com/2015/08/docker-in-the-real-world-at-yelp.html)
 + [Tutorial by serversforhackers](https://serversforhackers.com/getting-started-with-docker/)
 + [The Docker Book](http://www.dockerbook.com/)
++ [Docker 从入门到实践](http://www.douban.com/group/topic/70402682/)
 
 # CaaS
 + [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
