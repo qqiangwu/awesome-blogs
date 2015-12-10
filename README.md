@@ -133,6 +133,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Tutorial by serversforhackers](https://serversforhackers.com/getting-started-with-docker/)
 + [The Docker Book](http://www.dockerbook.com/)
 + [Docker 从入门到实践](http://www.douban.com/group/topic/70402682/)
++ [精简Docker镜像](http://www.alauda.cn/2015/07/10/docker-image-as-small-as-possible/)
 
 # CaaS
 + [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
