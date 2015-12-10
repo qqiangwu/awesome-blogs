@@ -33,6 +33,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # Web Server
 + [系统负载能力浅析](http://www.rowkey.me/blog/2015/09/09/load-analysis/)
 + [使用四种框架分别实现百万websocket常连接的服务器](http://colobu.com/2015/05/22/implement-C1000K-servers-by-spray-netty-undertow-and-node-js/)
++ [七牛CEO许式伟：服务端开发那些事儿](http://mp.weixin.qq.com/s?__biz=MjM5NzAwNDI4Mg==&mid=400623317&idx=1&sn=5a9c5b75148dd308ff35eec6ae041cab)
 
 # Architecture
 + [理想的应用框架](http://www.cnblogs.com/sskyy/p/4592353.html)
