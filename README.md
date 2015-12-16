@@ -172,6 +172,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # CSS
 + [CSS 核心概念](http://www.geekplux.com/2014/04/25/several_core_concepts_of_css.html)
++ [从 BEM 谈大型项目中 CSS 的组织和管理](http://www.ibm.com/developerworks/cn/web/1512_chengfu_bem/index.html)
 
 # Javascript
 + [A guide to publishing JavaScript open source projects](http://www.conductor.com/nightlight/guide-publishing-javascript-open-source-projects/)
