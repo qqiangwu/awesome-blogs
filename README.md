@@ -5,6 +5,9 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Martyr2'S Mega Project Ideas List!](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 + [A Python Interpreter Written in Python](http://aosabook.org/en/500L/pages/a-python-interpreter-written-in-python.html)
 
+# InAction
++ [统计日志存储和统计:高并发简单实现](http://segmentfault.com/a/1190000004136250)：重剑无锋，大巧不工！
+
 # Distributed System
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
 
