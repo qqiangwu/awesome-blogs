@@ -57,6 +57,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [How Mashape Manages Over 15,000 APIs & Microservices](http://stackshare.io/mashape/how-mashape-manages-over-15-000-apis-microservices)
 + [Why dual writes are a bad idea](http://www.confluent.io/blog/using-logs-to-build-a-solid-data-infrastructure-or-why-dual-writes-are-a-bad-idea/)
 + [SacrificialArchitecture](http://martinfowler.com/bliki/SacrificialArchitecture.html)
++ [千万级规模高性能、高并发的网络架构经验分享](https://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=401628413&idx=1&sn=91abfbad4c7dc882e94939042a8785a4)
 
 ## PhoenixServer
 + [ConfigurationDrift](http://kief.com/configuration-drift.html)
