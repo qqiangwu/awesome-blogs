@@ -7,6 +7,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # InAction
 + [统计日志存储和统计:高并发简单实现](http://segmentfault.com/a/1190000004136250)：重剑无锋，大巧不工！
++ [How Not to Crash](http://inessential.com/hownottocrash)
 
 # Distributed System
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
