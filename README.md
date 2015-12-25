@@ -200,3 +200,5 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Exception Handling
 + [Java 理论与实践: 关于异常的争论](https://www.ibm.com/developerworks/cn/java/j-jtp05254/)
++ [Exception Handling: Common Problems and
+Best Practice with Java 1.4](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.11.4355&rep=rep1&type=pdf)
