@@ -203,3 +203,4 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Exception Handling: Common Problems andBest Practice with Java 1.4](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.11.4355&rep=rep1&type=pdf)
 + [Exception-Handling Antipatterns Blog](https://community.oracle.com/docs/DOC-983543)
 + [Failure and Exceptions](http://www.artima.com/intv/solidP.html)
++ [Ten practices for perfect Java Exception handling](http://literatejava.com/exceptions/ten-practices-for-perfect-java-exception-handling/)
