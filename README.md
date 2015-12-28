@@ -23,6 +23,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # Cache
 + [Codis作者黄东旭细说分布式Redis架构设计和踩过的那些坑们](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=208733458&idx=1&sn=691bfde670fb2dd649685723f7358fea)
 + [缓存无底洞](http://carlosfu.iteye.com/blog/2263813)
++ [In-Process Caching vs. Distributed Caching](https://dzone.com/articles/process-caching-vs-distributed)
 
 # 4-Tiers
 + [Mobile Needs A Four-Tier Engagement Platform](http://blogs.forrester.com/ted_schadler/13-11-20-mobile_needs_a_four_tier_engagement_platform)
