@@ -165,6 +165,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 + [Token-Based Authentication With AngularJS & NodeJS](http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543): It works, but not optimal.
 + [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/index.html)
++ [Success vs. Failure – The Importance of API Metrics](http://nordicapis.com/success-vs-failure-the-importance-of-api-metrics/)
 
 # Web
 + [危险的上传对话框](http://www.cnblogs.com/index-html/p/dialog-phishing.html)
