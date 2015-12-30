@@ -206,3 +206,6 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Exception-Handling Antipatterns Blog](https://community.oracle.com/docs/DOC-983543)
 + [Failure and Exceptions](http://www.artima.com/intv/solidP.html)
 + [Ten practices for perfect Java Exception handling](http://literatejava.com/exceptions/ten-practices-for-perfect-java-exception-handling/)
+
+# Misc
++ [知其所以然（三）：为什么算法这么难？](http://mindhacks.cn/2011/07/10/the-importance-of-knowing-why-part3/)
