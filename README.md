@@ -63,6 +63,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [SacrificialArchitecture](http://martinfowler.com/bliki/SacrificialArchitecture.html)
 + [千万级规模高性能、高并发的网络架构经验分享](https://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=401628413&idx=1&sn=91abfbad4c7dc882e94939042a8785a4)
 + [Rebuilding Our Infrastructure with Docker, ECS, and Terraform](https://segment.com/blog/rebuilding-our-infrastructure/): 架构方式千万种,选择可以用的就行了!没有什么完美的东西,当一个可以用的东西变得难以使用时,我们就应该对些进行改进了!
++ [大型网站技术架构](http://book.douban.com/subject/25723064/)
++ [大规模分布式存储系统](http://book.douban.com/subject/25723658/)
 
 ## PhoenixServer
 + [ConfigurationDrift](http://kief.com/configuration-drift.html)
