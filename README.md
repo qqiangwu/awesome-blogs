@@ -148,6 +148,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Docker 从入门到实践](http://www.douban.com/group/topic/70402682/)
 + [精简Docker镜像](http://www.alauda.cn/2015/07/10/docker-image-as-small-as-possible/)
 + [Creating a Distributed System in 300 Lines With Mesos, Docker, and Go](https://dzone.com/articles/creating-a-distributed-system-in-300-lines-with-me)
++ [Docker基础技术](http://coolshell.cn/?s=docker%E5%9F%BA%E7%A1%80%E6%8A%80%E6%9C%AF)
 
 # CaaS
 + [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
