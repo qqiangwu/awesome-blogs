@@ -175,6 +175,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # Web
 + [危险的上传对话框](http://www.cnblogs.com/index-html/p/dialog-phishing.html)
 + [The Challenge of Dynamically Generating Static Content](https://zoompf.com/blog/2009/12/the-challenge-of-dynamically-generating-static-content): Do not generate static content at runtime!
++ [Critical rendering path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=en)
 
 # Deployment automation tools
 + [Chef](https://www.chef.io/)
