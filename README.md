@@ -216,6 +216,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Tools
 + [「Githug」Git 游戏通关流程](http://www.jianshu.com/p/482b32716bbe)
++ [Git Tut](https://www.atlassian.com/git/tutorials/)
 
 # Misc
 + [知其所以然（三）：为什么算法这么难？](http://mindhacks.cn/2011/07/10/the-importance-of-knowing-why-part3/)
