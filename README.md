@@ -7,7 +7,6 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # InAction
 + [统计日志存储和统计:高并发简单实现](http://segmentfault.com/a/1190000004136250)：重剑无锋，大巧不工！
-+ [How Not to Crash](http://inessential.com/hownottocrash)
 
 # Distributed System
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
@@ -176,6 +175,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [危险的上传对话框](http://www.cnblogs.com/index-html/p/dialog-phishing.html)
 + [The Challenge of Dynamically Generating Static Content](https://zoompf.com/blog/2009/12/the-challenge-of-dynamically-generating-static-content): Do not generate static content at runtime!
 + [Critical rendering path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=en)
++ [图解Http](https://book.douban.com/subject/25863515/)
 
 # Deployment automation tools
 + [Chef](https://www.chef.io/)
