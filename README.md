@@ -176,6 +176,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [The Challenge of Dynamically Generating Static Content](https://zoompf.com/blog/2009/12/the-challenge-of-dynamically-generating-static-content): Do not generate static content at runtime!
 + [Critical rendering path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=en)
 + [图解Http](https://book.douban.com/subject/25863515/)
++ [前端工程精粹（二）：静态资源管理与模板框架](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)
 
 # Deployment automation tools
 + [Chef](https://www.chef.io/)
