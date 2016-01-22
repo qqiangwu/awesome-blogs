@@ -177,6 +177,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Critical rendering path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=en)
 + [图解Http](https://book.douban.com/subject/25863515/)
 + [前端工程精粹（二）：静态资源管理与模板框架](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)
++ [前端开发体系建设日记](http://www.infoq.com/cn/articles/talk-front-end-integrated-solution-part2)
 
 # Deployment automation tools
 + [Chef](https://www.chef.io/)
