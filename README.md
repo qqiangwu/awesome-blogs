@@ -181,6 +181,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [浏览器缓存知识小结及应用](http://www.cnblogs.com/lyzg/p/5125934.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io#commentform): 要用就用强缓存, 要么就什么都不用!
 + [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
 + [前端工程化知识梳理](https://github.com/fouber/blog)
++ [关于URL编码](http://www.ruanyifeng.com/blog/2010/02/url_encoding.html)
 
 # Deployment automation tools
 + [Chef](https://www.chef.io/)
