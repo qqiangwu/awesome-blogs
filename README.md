@@ -196,6 +196,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Javascript
 + [A guide to publishing JavaScript open source projects](http://www.conductor.com/nightlight/guide-publishing-javascript-open-source-projects/)
++ [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 
 # C++
 + [Why C++ never dies](http://www.viva64.com/en/b/0324/)
