@@ -117,6 +117,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # Realtime Message Delivery
 + [Twitter](http://www.infoq.com/presentations/Real-Time-Delivery-Twitter)
 + [淘宝的消息中间件(2013)](http://segmentfault.com/a/1190000003059871)
++ [阿里分布式开放消息服务(ONS)原理与实践_沈询](http://v.youku.com/v_show/id_XODY5ODcxNjI0.html)
 
 # Miscro-service
 + [All About Miscroservice](http://martinfowler.com/microservices/)
