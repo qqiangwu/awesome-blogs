@@ -231,3 +231,6 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [知其所以然（三）：为什么算法这么难？](http://mindhacks.cn/2011/07/10/the-importance-of-knowing-why-part3/)
 + [跟波利亚学解题(rev#3)](http://mindhacks.cn/2008/04/18/learning-from-polya/)
 + [The Art of Unix Programming](http://catb.org/esr/writings/taoup/)
+
+# Algorithm
++ [一位Google程序员的算法学习之路](http://lucida.me/blog/on-learning-algorithms/)
