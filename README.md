@@ -88,6 +88,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [如何写出不可维护的服务端程序](http://yanyiwu.com/work/2014/03/03/ru-he-xie-chu-bu-ke-wei-hu-de-fu-wu.html)
 + [Using Microservices To Build Cloud Native Applications](http://ryanjbaxter.com/2015/07/15/using-microservices-to-build-cloud-native-applications-part-1/)
 + [Building Cloud Native Applications](http://ryanjbaxter.com/2015/07/13/building-cloud-native-applications/)
++ [Building Cloud Native Apps With Spring](http://ryanjbaxter.com/2015/09/14/building-cloud-native-apps-with-spring-part-1/)
 
 # Cloud Logging
 + [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
