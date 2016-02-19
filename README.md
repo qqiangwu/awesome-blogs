@@ -87,6 +87,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [MonolithFirst](http://martinfowler.com/bliki/MonolithFirst.html)
 + [如何写出不可维护的服务端程序](http://yanyiwu.com/work/2014/03/03/ru-he-xie-chu-bu-ke-wei-hu-de-fu-wu.html)
 + [Using Microservices To Build Cloud Native Applications](http://ryanjbaxter.com/2015/07/15/using-microservices-to-build-cloud-native-applications-part-1/)
++ [Building Cloud Native Applications](http://ryanjbaxter.com/2015/07/13/building-cloud-native-applications/)
 
 # Cloud Logging
 + [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
