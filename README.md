@@ -141,6 +141,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # Load balancing and Cache
 + [HAProxy](http://www.haproxy.org/)
 + [Varnish](https://www.varnish-cache.org/)
++ [服务器端架构，前端服务器与客户端随机负载平衡](http://geek.csdn.net/news/detail/52033)
 
 # Container
 + [Docker in the Real World at Yelp](http://engineeringblog.yelp.com/2015/08/docker-in-the-real-world-at-yelp.html)
