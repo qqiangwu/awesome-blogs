@@ -6,7 +6,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [A Python Interpreter Written in Python](http://aosabook.org/en/500L/pages/a-python-interpreter-written-in-python.html)
 
 # InAction
-+ [统计日志存储和统计:高并发简单实现](http://segmentfault.com/a/1190000004136250)：重剑无锋，大巧不工！
++ [统计日志存储和统计:高并发简单实现](http://segmentfault.com/a/1190000004136250)
 
 # Distributed System
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
@@ -243,3 +243,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Guide your way
 + [来信， 创业 和 移动互联网](http://coolshell.cn/articles/5815.html)
++ [腾讯，竞争力 和 用户体验](http://coolshell.cn/articles/5901.html)
++ [多些时间能少写些代码](http://coolshell.cn/articles/5686.html)
++ [重构代码的7个阶段](http://coolshell.cn/articles/5201.html)
++ [各种流行的编程风格](http://coolshell.cn/articles/2058.html)
