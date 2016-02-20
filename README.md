@@ -187,6 +187,9 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [前端工程化知识梳理](https://github.com/fouber/blog)
 + [关于URL编码](http://www.ruanyifeng.com/blog/2010/02/url_encoding.html)
 
+# Security
++ [如何防范密码被破解](http://coolshell.cn/articles/2078.html)
+
 # Deployment automation tools
 + [Chef](https://www.chef.io/)
 + [Puppet](https://puppetlabs.com/)
