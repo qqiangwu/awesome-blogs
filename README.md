@@ -179,6 +179,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Success vs. Failure – The Importance of API Metrics](http://nordicapis.com/success-vs-failure-the-importance-of-api-metrics/)
 
 # Web
++ [Web开发中需要了解的东西](http://coolshell.cn/articles/6043.html): Web开发纲领
 + [危险的上传对话框](http://www.cnblogs.com/index-html/p/dialog-phishing.html)
 + [The Challenge of Dynamically Generating Static Content](https://zoompf.com/blog/2009/12/the-challenge-of-dynamically-generating-static-content): Do not generate static content at runtime!
 + [Critical rendering path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=en)
