@@ -112,6 +112,9 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [从理论到实践，全方位认识DNS（实践篇）](http://selfboot.cn/2015/11/14/dns_practice/)
 + [Docker Service Discovery Using Etcd and Haproxy](http://jasonwilder.com/blog/2014/07/15/docker-service-discovery/)
 
+# PaaS
++ [为什么我们抛弃ECS而选择了Kubernetes](https://www.cppfans.org/2078.html)
+
 # Realtime application basis
 + [600k concurrent websocket connections on AWS using Node.js](http://www.jayway.com/2015/04/13/600k-concurrent-websocket-connections-on-aws-using-node-js/)
 + [Socket options SO_REUSEADDR and SO_REUSEPORT, how do they differ? Do they mean the same across all major operating systems?](http://stackoverflow.com/questions/14388706/socket-options-so-reuseaddr-and-so-reuseport-how-do-they-differ-do-they-mean-t)
