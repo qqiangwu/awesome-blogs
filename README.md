@@ -237,3 +237,6 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Algorithm
 + [一位Google程序员的算法学习之路](http://lucida.me/blog/on-learning-algorithms/)
+
+# Mobile
++ [饿了么移动APP的架构演进](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90)
