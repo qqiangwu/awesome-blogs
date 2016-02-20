@@ -64,12 +64,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Rebuilding Our Infrastructure with Docker, ECS, and Terraform](https://segment.com/blog/rebuilding-our-infrastructure/): 架构方式千万种,选择可以用的就行了!没有什么完美的东西,当一个可以用的东西变得难以使用时,我们就应该对些进行改进了!
 + [大型网站技术架构](http://book.douban.com/subject/25723064/)
 + [大规模分布式存储系统](http://book.douban.com/subject/25723658/)
-
-## PhoenixServer
-+ [ConfigurationDrift](http://kief.com/configuration-drift.html)
-+ [Phoenixserver](http://martinfowler.com/bliki/PhoenixServer.html)
-+ [SnowflakeServer](http://martinfowler.com/bliki/SnowflakeServer.html)
-+ [Moving to PhoenixServer](https://www.thoughtworks.com/insights/blog/moving-to-phoenix-server-pattern-introduction)
++ [SteveY对Amazon和Google平台的吐槽](http://coolshell.cn/articles/5701.html)
 
 # Cloud App
 + [The Twelve-factor Apps](http://12factor.net/)
@@ -245,3 +240,6 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Mobile
 + [饿了么移动APP的架构演进](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90)
+
+# Guide your way
++ [来信， 创业 和 移动互联网](http://coolshell.cn/articles/5815.html)
