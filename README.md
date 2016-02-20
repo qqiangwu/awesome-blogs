@@ -189,6 +189,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Security
 + [如何防范密码被破解](http://coolshell.cn/articles/2078.html)
++ [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
 
 # Deployment automation tools
 + [Chef](https://www.chef.io/)
