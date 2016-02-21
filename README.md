@@ -131,6 +131,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Adopting Microservices at Netflix: Lessons for Architectural Design](https://www.nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
 + [MicroservicePrerequisites](http://martinfowler.com/bliki/MicroservicePrerequisites.html)
 + [实施微服务，我们需要哪些基础框架？](http://www.infoq.com/cn/articles/basis-frameworkto-implement-micro-service#rd): 好文!
++ [Seven Microservices Anti-patterns](http://www.infoq.com/articles/seven-uservices-antipatterns)
 
 # Concurrency
 + [An introduction to simpler concurrency abstractions](http://timperrett.com/2012/04/27/introduction-to-simpler-concurrency-abstractions/)
