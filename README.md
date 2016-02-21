@@ -209,6 +209,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # Javascript
 + [A guide to publishing JavaScript open source projects](http://www.conductor.com/nightlight/guide-publishing-javascript-open-source-projects/)
 + [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
++ [Release your libs like a pro](http://www.webcodegeeks.com/web-development/release-libs-like-pro/)
 
 # C++
 + [Why C++ never dies](http://www.viva64.com/en/b/0324/)
@@ -237,6 +238,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [「Githug」Git 游戏通关流程](http://www.jianshu.com/p/482b32716bbe)
 + [Git Tut](https://www.atlassian.com/git/tutorials/)
 + [Webhook 实践 —— 自动部署](http://jerryzou.com/posts/webhook-practice/)
++ [Semantic Commit Messages](http://seesparkbox.com/foundry/semantic_commit_messages)
++ [Git Commit Msg](http://karma-runner.github.io/0.10/dev/git-commit-msg.html)
 
 # Misc
 + [知其所以然（三）：为什么算法这么难？](http://mindhacks.cn/2011/07/10/the-importance-of-knowing-why-part3/)
