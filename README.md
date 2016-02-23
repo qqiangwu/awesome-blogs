@@ -84,6 +84,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Using Microservices To Build Cloud Native Applications](http://ryanjbaxter.com/2015/07/15/using-microservices-to-build-cloud-native-applications-part-1/)
 + [Building Cloud Native Applications](http://ryanjbaxter.com/2015/07/13/building-cloud-native-applications/)
 + [Building Cloud Native Apps With Spring](http://ryanjbaxter.com/2015/09/14/building-cloud-native-apps-with-spring-part-1/)
++ [轻松构建千万级的投票系统](http://mp.weixin.qq.com/s?__biz=MzI4MjA4ODU0Ng==&mid=402314371&idx=1&sn=56ce7d572e13cbf4931106568ae0051d#rd)
 
 # Cloud Logging
 + [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
