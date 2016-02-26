@@ -198,12 +198,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Rate Limiting and Velocity Checking](http://blog.codinghorror.com/rate-limiting-and-velocity-checking/)
 + [Session hijacking](https://en.wikipedia.org/wiki/Session_hijacking)
 
-# Deployment automation tools
-+ [Chef](https://www.chef.io/)
-+ [Puppet](https://puppetlabs.com/)
-+ [Fabric](http://www.fabfile.org/)
-+ [Ansible](http://www.ansible.com)
-+ [Supervisor](http://supervisord.org/introduction.html)
+# Tricks
++ [YouTube Strategy: Adding Jitter Isn't A Bug](http://highscalability.com/blog/2012/4/17/youtube-strategy-adding-jitter-isnt-a-bug.html)
 
 # CSS
 + [CSS 核心概念](http://www.geekplux.com/2014/04/25/several_core_concepts_of_css.html)
