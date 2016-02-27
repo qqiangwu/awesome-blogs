@@ -66,6 +66,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [大规模分布式存储系统](http://book.douban.com/subject/25723658/)
 + [SteveY对Amazon和Google平台的吐槽](http://coolshell.cn/articles/5701.html)
 + [7 Years Of YouTube Scalability Lessons In 30 Minutes](http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html): The Art of Unix Programming.
++ [Reddit月浏览量从百万扩容到十亿的陷阱和教训](http://blog.jobbole.com/47630/)
 
 # Cloud App
 + [The Twelve-factor Apps](http://12factor.net/)
