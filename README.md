@@ -135,6 +135,10 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [MicroservicePrerequisites](http://martinfowler.com/bliki/MicroservicePrerequisites.html)
 + [实施微服务，我们需要哪些基础框架？](http://www.infoq.com/cn/articles/basis-frameworkto-implement-micro-service#rd): 好文!
 + [Seven Microservices Anti-patterns](http://www.infoq.com/articles/seven-uservices-antipatterns)
++ [系统分布式情况下最终一致性方案梳理](http://iamzhongyong.iteye.com/blog/2240891)
+
+# BI
++ [大数据环境下互联网行业数据仓库/数据平台的架构之漫谈](http://lxw1234.com/archives/2015/08/471.htm)
 
 # Concurrency
 + [An introduction to simpler concurrency abstractions](http://timperrett.com/2012/04/27/introduction-to-simpler-concurrency-abstractions/)
