@@ -154,6 +154,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Leveraging your CDN to cache "uncacheable" content](https://www.fastly.com/blog/caching-dynamic-content): CDN层页面及Ajax缓存
 + [The rise of event-driven content (or how to cache more at the edge)](https://www.fastly.com/blog/rise-event-driven-content-or-how-cache-more-edge)
 + [API Caching](https://www.fastly.com/blog/api-caching-part-i): Caching your restful APIs
++ [大型网站架构系列：负载均衡详解（上）](http://blog.jobbole.com/97957/)
++ [大型网站架构系列：负载均衡详解（下）](http://blog.jobbole.com/97960/)
 
 # Container
 + [Docker in the Real World at Yelp](http://engineeringblog.yelp.com/2015/08/docker-in-the-real-world-at-yelp.html)
