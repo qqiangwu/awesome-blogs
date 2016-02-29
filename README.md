@@ -140,6 +140,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # BI
 + [大数据环境下互联网行业数据仓库/数据平台的架构之漫谈](http://lxw1234.com/archives/2015/08/471.htm)
++ [Change data capture](https://en.wikipedia.org/wiki/Change_data_capture)
 
 # Concurrency
 + [An introduction to simpler concurrency abstractions](http://timperrett.com/2012/04/27/introduction-to-simpler-concurrency-abstractions/)
