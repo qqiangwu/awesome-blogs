@@ -7,6 +7,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # InAction
 + [统计日志存储和统计:高并发简单实现](http://segmentfault.com/a/1190000004136250)
++ [大型网站架构系列：电商网站架构案例](http://blog.jobbole.com/97951/)
 
 # Distributed System
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
