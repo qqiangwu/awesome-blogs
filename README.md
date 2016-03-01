@@ -19,6 +19,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Distributed ID Generation](http://instagram-engineering.tumblr.com/post/10853187575/sharding-ids-at-instagram)
 + [PolyglotPersistence](http://martinfowler.com/bliki/PolyglotPersistence.html)
 + [如何对应大数据量网站的考验](http://blog.csdn.net/cutesource/article/details/5164516)
++ [云存储技术实践](http://open.qiniudn.com/cloud-storage-tech.pdf)
 
 # Cache
 + [Codis作者黄东旭细说分布式Redis架构设计和踩过的那些坑们](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=208733458&idx=1&sn=691bfde670fb2dd649685723f7358fea)
