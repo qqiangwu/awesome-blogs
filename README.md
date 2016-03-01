@@ -8,6 +8,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # InAction
 + [统计日志存储和统计:高并发简单实现](http://segmentfault.com/a/1190000004136250)
 + [大型网站架构系列：电商网站架构案例](http://blog.jobbole.com/97951/)
++ [Why Are Facebook, Digg, And Twitter So Hard To Scale?](http://highscalability.com/blog/2009/10/13/why-are-facebook-digg-and-twitter-so-hard-to-scale.html)
++ [Scaling Twitter: Making Twitter 10000 Percent Faster](http://highscalability.com/scaling-twitter-making-twitter-10000-percent-faster)
 
 # Distributed System
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
