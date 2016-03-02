@@ -11,6 +11,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Why Are Facebook, Digg, And Twitter So Hard To Scale?](http://highscalability.com/blog/2009/10/13/why-are-facebook-digg-and-twitter-so-hard-to-scale.html)
 + [Scaling Twitter: Making Twitter 10000 Percent Faster](http://highscalability.com/scaling-twitter-making-twitter-10000-percent-faster): The primitive architecture of Twitter
 + [The Architecture Twitter Uses To Deal With 150M Active Users, 300K QPS, A 22 MB/S Firehose, And Send Tweets In Under 5 Seconds](http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html): Advanced Twitter architecture.
++ [铁路订票系统的简单设计](http://blog.codingnow.com/2012/01/ticket_queue.html)
 
 # Distributed System
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
