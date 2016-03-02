@@ -141,6 +141,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [实施微服务，我们需要哪些基础框架？](http://www.infoq.com/cn/articles/basis-frameworkto-implement-micro-service#rd): 好文!
 + [Seven Microservices Anti-patterns](http://www.infoq.com/articles/seven-uservices-antipatterns)
 + [系统分布式情况下最终一致性方案梳理](http://iamzhongyong.iteye.com/blog/2240891)
++ [打造坚实的服务平台－－京东服务框架实践](http://www.infoq.com/cn/presentations/build-a-solid-service-platform-Jingdong-service-framework-practice?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text)
 
 # BI
 + [大数据环境下互联网行业数据仓库/数据平台的架构之漫谈](http://lxw1234.com/archives/2015/08/471.htm)
