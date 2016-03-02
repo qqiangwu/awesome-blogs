@@ -118,6 +118,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # PaaS
 + [为什么我们抛弃ECS而选择了Kubernetes](https://www.cppfans.org/2078.html)
 + [Inside Yelp's SOA Infrastructure](http://www.infoq.com/presentations/yelp-infrastructure): Every team needs PaaS.
++ [The PaaSTA Contract](http://paasta.readthedocs.org/en/latest/about/contract.html)
++ [PaaSTA Principles](http://paasta.readthedocs.org/en/latest/about/paasta_principles.html)
 
 # Realtime application basis
 + [600k concurrent websocket connections on AWS using Node.js](http://www.jayway.com/2015/04/13/600k-concurrent-websocket-connections-on-aws-using-node-js/)
