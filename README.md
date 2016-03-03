@@ -15,6 +15,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Distributed System
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
++ [Building Globally Distributed, Mission Critical Applications](http://highscalability.com/blog/2015/8/31/building-globally-distributed-mission-critical-applications.html)
 
 # Database
 + [Redis In Action](http://www.amazon.com/Redis-Action-Josiah-L-Carlson/dp/1617290858)
@@ -105,6 +106,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Metrics, Metrics, Everywhere](https://www.youtube.com/watch?v=czes-oa0yik)
 + [5 Steps to Better Application Logging](http://www.miyagijournal.com/articles/five-steps-application-logging/)
 + [Logging best practices](http://dev.splunk.com/view/logging-best-practices/SP-CAAADP6)
++ [Unified Logging Layer: Turning Data into Action](http://www.fluentd.org/blog/unified-logging-layer)
 
 # Cloud Messaging
 + [Evolution of AMQP at SoundCloud](http://www.infoq.com/presentations/amqp-soundcloud)
@@ -190,7 +192,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Secure API via OAuth](http://nordicapis.com/how-to-control-user-identity-within-microservices/)
 + [How We Solved Authentication and Authorization in Our Microservices Architecture](https://www.appsflyer.com/blog/how-we-solved-authentication-and-authorization-in-our-microservices-architecture/)
 + [Making the Netflix API More Resilient](http://techblog.netflix.com/2011/12/making-netflix-api-more-resilient.html)
-+ [Fault Tolerance in a High Volume, Distributed System](http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html) 
++ [Fault Tolerance in a High Volume, Distributed System](http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html)
     + You should be able to take your API under your control. God won't help you!
 + [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 + [Token-Based Authentication With AngularJS & NodeJS](http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543): It works, but not optimal.
@@ -212,6 +214,9 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [关于URL编码](http://www.ruanyifeng.com/blog/2010/02/url_encoding.html)
 + [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 + [rel="shortcut icon" considered harmful](https://mathiasbynens.be/notes/rel-shortcut-icon)
+
+# EnterpriseApplication
++ [领域驱动设计(Domain Driven Design)参考架构详解](http://m.oschina.net/blog/538568)
 
 # Security
 + [如何防范密码被破解](http://coolshell.cn/articles/2078.html)
