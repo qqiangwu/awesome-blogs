@@ -237,6 +237,11 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [A guide to publishing JavaScript open source projects](http://www.conductor.com/nightlight/guide-publishing-javascript-open-source-projects/)
 + [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
 + [Release your libs like a pro](http://www.webcodegeeks.com/web-development/release-libs-like-pro/)
++ [Stop Being Cute and Clever](http://lucumr.pocoo.org/2013/12/9/stop-being-clever/):
+    + Some inherent flaws of JS make it hard to use and easy to be done in a bad way. Anyway, stop being clever.
+    + Immutability is good.
+    + Well-designed languages make you write better code.
+    + Bad code will be copied around and generally becomes somewhat `standard`. 
 
 # C++
 + [Why C++ never dies](http://www.viva64.com/en/b/0324/)
