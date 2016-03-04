@@ -25,6 +25,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [PolyglotPersistence](http://martinfowler.com/bliki/PolyglotPersistence.html)
 + [如何对应大数据量网站的考验](http://blog.csdn.net/cutesource/article/details/5164516)
 + [云存储技术实践](http://open.qiniudn.com/cloud-storage-tech.pdf)
++ [My Favorite Database is the Network](lucumr.pocoo.org/2013/11/17/my-favorite-database/)
 
 # Cache
 + [Codis作者黄东旭细说分布式Redis架构设计和踩过的那些坑们](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=208733458&idx=1&sn=691bfde670fb2dd649685723f7358fea)
@@ -177,6 +178,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [精简Docker镜像](http://www.alauda.cn/2015/07/10/docker-image-as-small-as-possible/)
 + [Creating a Distributed System in 300 Lines With Mesos, Docker, and Go](https://dzone.com/articles/creating-a-distributed-system-in-300-lines-with-me)
 + [Docker基础技术](http://coolshell.cn/?s=docker%E5%9F%BA%E7%A1%80%E6%8A%80%E6%9C%AF)
++ [10 things to avoid in docker containers](http://developerblog.redhat.com/2016/02/24/10-things-to-avoid-in-docker-containers/)
 
 # CaaS
 + [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
