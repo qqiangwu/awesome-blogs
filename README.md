@@ -250,6 +250,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Python
 + [PYTHON ECOSYSTEM: AN INTRODUCTION](http://mirnazim.org/writings/python-ecosystem-introduction/)
++ [Python and the Principle of Least Astonishment](http://lucumr.pocoo.org/2011/7/9/python-and-pola/): GP and Concepts.
 
 # Kotline
 + [Why Kotlin is my next programming language](https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3#.8x1gkgz51)
@@ -285,3 +286,6 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [多些时间能少写些代码](http://coolshell.cn/articles/5686.html)
 + [重构代码的7个阶段](http://coolshell.cn/articles/5201.html)
 + [各种流行的编程风格](http://coolshell.cn/articles/2058.html)
+
+# Programming
++ [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/): Classes are good at compositing function atoms.
