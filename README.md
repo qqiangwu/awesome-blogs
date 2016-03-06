@@ -1,6 +1,9 @@
 # Awesome blogs
 The followings are awesome blogs or books I've read. I deem that they will be worth your time. Have a try!
 
+# Basis
++ [TCP 的那些事儿](http://coolshell.cn/articles/11564.html)
+
 # Learning
 + [Martyr2'S Mega Project Ideas List!](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 + [A Python Interpreter Written in Python](http://aosabook.org/en/500L/pages/a-python-interpreter-written-in-python.html)
@@ -128,6 +131,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # Realtime application basis
 + [600k concurrent websocket connections on AWS using Node.js](http://www.jayway.com/2015/04/13/600k-concurrent-websocket-connections-on-aws-using-node-js/)
 + [Socket options SO_REUSEADDR and SO_REUSEPORT, how do they differ? Do they mean the same across all major operating systems?](http://stackoverflow.com/questions/14388706/socket-options-so-reuseaddr-and-so-reuseport-how-do-they-differ-do-they-mean-t)
++ [Stateless and Proud in the Realtime World](http://lucumr.pocoo.org/2012/8/5/stateless-and-proud/): Realtime application paradigm.
 
 # Realtime Message Delivery
 + [Twitter](http://www.infoq.com/presentations/Real-Time-Delivery-Twitter)
@@ -241,7 +245,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
     + Some inherent flaws of JS make it hard to use and easy to be done in a bad way. Anyway, stop being clever.
     + Immutability is good.
     + Well-designed languages make you write better code.
-    + Bad code will be copied around and generally becomes somewhat `standard`. 
+    + Bad code will be copied around and generally becomes somewhat `standard`.
 
 # C++
 + [Why C++ never dies](http://www.viva64.com/en/b/0324/)
@@ -294,3 +298,9 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Programming
 + [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/): Classes are good at compositing function atoms.
+## API Design
++ [千万不要把 bool 设计成函数参数](http://coolshell.cn/articles/5444.html)
++ [QT API Design Principles](http://wiki.qt.io/API-Design-Principles)
++ [API设计：用流畅接口构造内部DSL](http://coolshell.cn/articles/5709.html)
+    + 抽象! 抽象! 抽象!
+    + DSL is a high abstract language which leads to less bugs compared to low level languages when they are of the same length.
