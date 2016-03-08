@@ -193,7 +193,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # Parallelism
 + [Parallelism in one line](http://chriskiehl.com/article/parallelism-in-one-line/): so think about parallelism and distributed systems.
 
-# API Design
+# Web API Design
 + [Secure API via Nginx](https://www.nginx.com/resources/admin-guide/restricting-access/)
 + [Secure API via OAuth](http://nordicapis.com/how-to-control-user-identity-within-microservices/)
 + [How We Solved Authentication and Authorization in Our Microservices Architecture](https://www.appsflyer.com/blog/how-we-solved-authentication-and-authorization-in-our-microservices-architecture/)
@@ -304,3 +304,6 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [API设计：用流畅接口构造内部DSL](http://coolshell.cn/articles/5709.html)
     + 抽象! 抽象! 抽象!
     + DSL is a high abstract language which leads to less bugs compared to low level languages when they are of the same length.
++ [An Approach to Internal Domain-Specific Languages in Java](http://www.infoq.com/articles/internal-dsls-java)
++ [CommandQuerySeparation](http://martinfowler.com/bliki/CommandQuerySeparation.html)
++ [ExpressionBuilder](http://martinfowler.com/bliki/ExpressionBuilder.html)
