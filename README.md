@@ -127,6 +127,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Inside Yelp's SOA Infrastructure](http://www.infoq.com/presentations/yelp-infrastructure): Every team needs PaaS.
 + [The PaaSTA Contract](http://paasta.readthedocs.org/en/latest/about/contract.html)
 + [PaaSTA Principles](http://paasta.readthedocs.org/en/latest/about/paasta_principles.html)
++ [Return of the Borg: How Twitter Rebuilt Google’s Secret Weapon](http://www.wired.com/2013/03/google-borg-twitter-mesos/)
 
 # Realtime application basis
 + [600k concurrent websocket connections on AWS using Node.js](http://www.jayway.com/2015/04/13/600k-concurrent-websocket-connections-on-aws-using-node-js/)
@@ -282,9 +283,12 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [知其所以然（三）：为什么算法这么难？](http://mindhacks.cn/2011/07/10/the-importance-of-knowing-why-part3/)
 + [跟波利亚学解题(rev#3)](http://mindhacks.cn/2008/04/18/learning-from-polya/)
 + [The Art of Unix Programming](http://catb.org/esr/writings/taoup/)
++ [What should Linux/Unix 'make install' consist of?](http://stackoverflow.com/questions/528399/what-should-linux-unix-make-install-consist-of)
++ [The magic behind configure, make, make install](https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install)
 
 # Algorithm
 + [一位Google程序员的算法学习之路](http://lucida.me/blog/on-learning-algorithms/)
++ [Introduction to algorithms](http://www.amazon.com/Introduction-Algorithms-A-Creative-Approach/dp/0201120372)
 
 # Mobile
 + [饿了么移动APP的架构演进](https://mp.weixin.qq.com/s?__biz=MzAxNDUwMzU3Mw==&mid=401044540&idx=1&sn=24b7d8fb655ae6dd5d989d0cb3c08e90)
@@ -307,3 +311,15 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [An Approach to Internal Domain-Specific Languages in Java](http://www.infoq.com/articles/internal-dsls-java)
 + [CommandQuerySeparation](http://martinfowler.com/bliki/CommandQuerySeparation.html)
 + [ExpressionBuilder](http://martinfowler.com/bliki/ExpressionBuilder.html)
+
+# Paper
++ [Borg](http://research.google.com/pubs/pub43438.html):
+    + A datacenter is a single computer! This is what Google and Twitter do!  
+    + We can pack multiple chips into a single computer, we can do the same thing in a datacenter.
++ [Mesos](http://mesos.apache.org/)
+    + It’s a Data Center. But It Looks Like a Chip
+    + Traditionally, the computer processor — the brain at the center of a machine — ran one task at a time. But a multi-core processor lets you run many tasks in parallel.
+    + “What we found is that applications were smart about scheduling their computations across these computing resources, but they were also greedy. They would ignore other applications that might be running and just grab everything for themselves,” Hindman says. “So we built a system that would only give an application access to a certain number of cores, and give others to another application. And those allocations might change over time.”
+    + Sixty-four cores or 128 cores on a single chip looks a lot like 64 machines or 128 machines in a data center.
+    + We wanted people to be able to program for the data center just like they program for their laptop.
+    + VMs are not good abstraction for application developers.
