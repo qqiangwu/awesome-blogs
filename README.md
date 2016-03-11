@@ -285,6 +285,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [The Art of Unix Programming](http://catb.org/esr/writings/taoup/)
 + [What should Linux/Unix 'make install' consist of?](http://stackoverflow.com/questions/528399/what-should-linux-unix-make-install-consist-of)
 + [The magic behind configure, make, make install](https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install)
++ [bashstyle](https://github.com/progrium/bashstyle)
 
 # Algorithm
 + [一位Google程序员的算法学习之路](http://lucida.me/blog/on-learning-algorithms/)
