@@ -184,6 +184,9 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Creating a Distributed System in 300 Lines With Mesos, Docker, and Go](https://dzone.com/articles/creating-a-distributed-system-in-300-lines-with-me)
 + [Docker基础技术](http://coolshell.cn/?s=docker%E5%9F%BA%E7%A1%80%E6%8A%80%E6%9C%AF)
 + [10 things to avoid in docker containers](http://developerblog.redhat.com/2016/02/24/10-things-to-avoid-in-docker-containers/)
++ [Measuring Percona Server Docker CPU/network overhead](https://www.percona.com/blog/2016/02/05/measuring-docker-cpu-network-overhead/)
++ [Measuring Docker IO overhead](https://www.percona.com/blog/2016/02/11/measuring-docker-io-overhead/)
++ [An Updated Performance Comparison of Virtual Machines and Linux Containers](http://domino.research.ibm.com/library/cyberdig.nsf/papers/0929052195DD819C85257D2300681E7B/$File/rc25482.pdf)
 
 # CaaS
 + [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
@@ -324,3 +327,6 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
     + Sixty-four cores or 128 cores on a single chip looks a lot like 64 machines or 128 machines in a data center.
     + We wanted people to be able to program for the data center just like they program for their laptop.
     + VMs are not good abstraction for application developers.
+
+# Storage
++ [The Design and Implementation of a Log-Structured File System](https://www.cs.berkeley.edu/~brewer/cs262/LFS.pdf)
