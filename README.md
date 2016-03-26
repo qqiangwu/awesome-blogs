@@ -29,6 +29,13 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [如何对应大数据量网站的考验](http://blog.csdn.net/cutesource/article/details/5164516)
 + [云存储技术实践](http://open.qiniudn.com/cloud-storage-tech.pdf)
 + [My Favorite Database is the Network](lucumr.pocoo.org/2013/11/17/my-favorite-database/)
++ [CQRS](http://martinfowler.com/bliki/CQRS.html)
+    + [ReportingDatabase](http://martinfowler.com/bliki/ReportingDatabase.html)
++ [Log Structured Merge Trees](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/)
+    + [ISAM](https://en.wikipedia.org/wiki/ISAM): Indexed Sequential Access Method, a method for indexing data for fast retrieval
+    + [Navigational database](https://en.wikipedia.org/wiki/Navigational_database): a type of database in which records or objects are found primarily by following references from other objects. They were a common type of database in the era when data was stored on magnetic tape. Reexamined by NoSQL.
++ [Upside Down Databases: Bridging the Operational and Analytic Worlds with Streams](http://www.benstopford.com/2015/04/07/upside-down-databases-bridging-the-operational-and-analytic-worlds-with-streams/
+    )
 
 # Cache
 + [Codis作者黄东旭细说分布式Redis架构设计和踩过的那些坑们](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=208733458&idx=1&sn=691bfde670fb2dd649685723f7358fea)
@@ -154,6 +161,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Seven Microservices Anti-patterns](http://www.infoq.com/articles/seven-uservices-antipatterns)
 + [系统分布式情况下最终一致性方案梳理](http://iamzhongyong.iteye.com/blog/2240891)
 + [打造坚实的服务平台－－京东服务框架实践](http://www.infoq.com/cn/presentations/build-a-solid-service-platform-Jingdong-service-framework-practice?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text)
++ [5 fundamentals to a successful microservice design](http://techbeacon.com/5-fundamentals-successful-microservice-design)
 
 # BI
 + [大数据环境下互联网行业数据仓库/数据平台的架构之漫谈](http://lxw1234.com/archives/2015/08/471.htm)
@@ -196,6 +204,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Parallelism
 + [Parallelism in one line](http://chriskiehl.com/article/parallelism-in-one-line/): so think about parallelism and distributed systems.
++ [读书笔记：对线程模型的批评](http://coolshell.cn/articles/4626.html)
 
 # Web API Design
 + [Secure API via Nginx](https://www.nginx.com/resources/admin-guide/restricting-access/)
@@ -289,6 +298,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [What should Linux/Unix 'make install' consist of?](http://stackoverflow.com/questions/528399/what-should-linux-unix-make-install-consist-of)
 + [The magic behind configure, make, make install](https://robots.thoughtbot.com/the-magic-behind-configure-make-make-install)
 + [bashstyle](https://github.com/progrium/bashstyle)
++ [鸟哥的 Linux 私房菜 -- 基础学习篇目录](http://vbird.dic.ksu.edu.tw/linux_basic/linux_basic.php)
++ [鸟哥的 Linux 私房菜 -- 服务器架设篇目录](http://vbird.dic.ksu.edu.tw/linux_server/)
 
 # Algorithm
 + [一位Google程序员的算法学习之路](http://lucida.me/blog/on-learning-algorithms/)
