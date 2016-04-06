@@ -2,7 +2,9 @@
 The followings are awesome blogs or books I've read. I deem that they will be worth your time. Have a try!
 
 # Basis
-+ [TCP 的那些事儿](http://coolshell.cn/articles/11564.html)
++ Network
+    + [TCP 的那些事儿](http://coolshell.cn/articles/11564.html)
+    + [集線器(Hub)、交換器(Switch)、IP分享器、路由器(Router)的差別](http://bluemuta38.pixnet.net/blog/post/45543357-%E9%9B%86%E7%B7%9A%E5%99%A8(hub)%E3%80%81%E4%BA%A4%E6%8F%9B%E5%99%A8(switch)%E3%80%81ip%E5%88%86%E4%BA%AB%E5%99%A8%E3%80%81%E8%B7%AF%E7%94%B1%E5%99%A8)
 
 # Learning
 + [Martyr2'S Mega Project Ideas List!](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
@@ -34,14 +36,15 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Log Structured Merge Trees](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/)
     + [ISAM](https://en.wikipedia.org/wiki/ISAM): Indexed Sequential Access Method, a method for indexing data for fast retrieval
     + [Navigational database](https://en.wikipedia.org/wiki/Navigational_database): a type of database in which records or objects are found primarily by following references from other objects. They were a common type of database in the era when data was stored on magnetic tape. Reexamined by NoSQL.
-+ [Upside Down Databases: Bridging the Operational and Analytic Worlds with Streams](http://www.benstopford.com/2015/04/07/upside-down-databases-bridging-the-operational-and-analytic-worlds-with-streams/
-    )
++ [Upside Down Databases: Bridging the Operational and Analytic Worlds with Streams](http://www.benstopford.com/2015/04/07/upside-down-databases-bridging-the-operational-and-analytic-worlds-with-streams/)
++ [阿里分布式数据库服务实践](http://v.youku.com/v_show/id_XODMyMzk2OTUy.html)
 
 # Cache
 + [Codis作者黄东旭细说分布式Redis架构设计和踩过的那些坑们](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=208733458&idx=1&sn=691bfde670fb2dd649685723f7358fea)
 + [缓存无底洞](http://carlosfu.iteye.com/blog/2263813)
 + [In-Process Caching vs. Distributed Caching](https://dzone.com/articles/process-caching-vs-distributed)
 + [In-Process Caching vs. External Caching](http://www2.sys-con.com/itsg/virtualcd/java/archives/0804/thomas2/index.html)
++ [浅谈Web缓存](http://www.alloyteam.com/2016/03/discussion-on-web-caching/): 必读
 
 # 4-Tiers
 + [Mobile Needs A Four-Tier Engagement Platform](http://blogs.forrester.com/ted_schadler/13-11-20-mobile_needs_a_four_tier_engagement_platform)
@@ -59,6 +62,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [使用四种框架分别实现百万websocket常连接的服务器](http://colobu.com/2015/05/22/implement-C1000K-servers-by-spray-netty-undertow-and-node-js/)
 + [七牛CEO许式伟：服务端开发那些事儿](http://mp.weixin.qq.com/s?__biz=MjM5NzAwNDI4Mg==&mid=400623317&idx=1&sn=5a9c5b75148dd308ff35eec6ae041cab)
 + [读写模型整理笔记](http://www.raychase.net/2932)
++ [Mitigating DDoS Attacks with NGINX and NGINX Plus](https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/): Protect servers by rate limiting
 
 # Architecture
 + [理想的应用框架](http://www.cnblogs.com/sskyy/p/4592353.html)
@@ -140,6 +144,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [600k concurrent websocket connections on AWS using Node.js](http://www.jayway.com/2015/04/13/600k-concurrent-websocket-connections-on-aws-using-node-js/)
 + [Socket options SO_REUSEADDR and SO_REUSEPORT, how do they differ? Do they mean the same across all major operating systems?](http://stackoverflow.com/questions/14388706/socket-options-so-reuseaddr-and-so-reuseport-how-do-they-differ-do-they-mean-t)
 + [Stateless and Proud in the Realtime World](http://lucumr.pocoo.org/2012/8/5/stateless-and-proud/): Realtime application paradigm.
++ [漫谈IM通信架构](http://www.yangguo.info/2015/08/17/%E6%BC%AB%E8%B0%88%E9%80%9A%E8%AE%AF%E6%9E%B6%E6%9E%84/)
 
 # Realtime Message Delivery
 + [Twitter](http://www.infoq.com/presentations/Real-Time-Delivery-Twitter)
