@@ -63,6 +63,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [七牛CEO许式伟：服务端开发那些事儿](http://mp.weixin.qq.com/s?__biz=MjM5NzAwNDI4Mg==&mid=400623317&idx=1&sn=5a9c5b75148dd308ff35eec6ae041cab)
 + [读写模型整理笔记](http://www.raychase.net/2932)
 + [Mitigating DDoS Attacks with NGINX and NGINX Plus](https://www.nginx.com/blog/mitigating-ddos-attacks-with-nginx-and-nginx-plus/): Protect servers by rate limiting
++ [构建C1000K的服务器(1) – 基础](http://www.ideawu.net/blog/archives/740.html)
 
 # Architecture
 + [理想的应用框架](http://www.cnblogs.com/sskyy/p/4592353.html)
@@ -89,6 +90,9 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [SteveY对Amazon和Google平台的吐槽](http://coolshell.cn/articles/5701.html)
 + [7 Years Of YouTube Scalability Lessons In 30 Minutes](http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html): The Art of Unix Programming.
 + [Reddit月浏览量从百万扩容到十亿的陷阱和教训](http://blog.jobbole.com/47630/)
+
+# Beauty of architecture
++ [bfs:支撑Bilibili的小文件存储系统](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=406016886&idx=1&sn=f5aa286373fb981c9de904568fe7ddb2)
 
 # Cloud App
 + [The Twelve-factor Apps](http://12factor.net/)
@@ -139,6 +143,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [The PaaSTA Contract](http://paasta.readthedocs.org/en/latest/about/contract.html)
 + [PaaSTA Principles](http://paasta.readthedocs.org/en/latest/about/paasta_principles.html)
 + [Return of the Borg: How Twitter Rebuilt Google’s Secret Weapon](http://www.wired.com/2013/03/google-borg-twitter-mesos/)
++ [DINP](http://dinp.qiniudn.com/dinp.final.pdf): 一个极简的PaaS实现
++ [IaaS之后](http://www.jianshu.com/p/6f6e48717bc4)
 
 # Realtime application basis
 + [600k concurrent websocket connections on AWS using Node.js](http://www.jayway.com/2015/04/13/600k-concurrent-websocket-connections-on-aws-using-node-js/)
