@@ -21,6 +21,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # Distributed System
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
 + [Building Globally Distributed, Mission Critical Applications](http://highscalability.com/blog/2015/8/31/building-globally-distributed-mission-critical-applications.html)
++ [CAP Twelve Years Later: How the "Rules" Have Changed](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
++ [The Consistency Alphabet Soup](http://hackingdistributed.com/2013/03/23/consistency-alphabet-soup/): What does C in CAP and ACID mean?
 
 # Database
 + [Redis In Action](http://www.amazon.com/Redis-Action-Josiah-L-Carlson/dp/1617290858)
@@ -38,6 +40,11 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
     + [Navigational database](https://en.wikipedia.org/wiki/Navigational_database): a type of database in which records or objects are found primarily by following references from other objects. They were a common type of database in the era when data was stored on magnetic tape. Reexamined by NoSQL.
 + [Upside Down Databases: Bridging the Operational and Analytic Worlds with Streams](http://www.benstopford.com/2015/04/07/upside-down-databases-bridging-the-operational-and-analytic-worlds-with-streams/)
 + [阿里分布式数据库服务实践](http://v.youku.com/v_show/id_XODMyMzk2OTUy.html)
++ GUID as primary key
+    + [Primary Keys: IDs versus GUIDs](http://blog.codinghorror.com/primary-keys-ids-versus-guids/)
+    + [Do not use GUID as PKs](http://stackoverflow.com/a/7578500)
+    + [How to store uuid as number?](http://stackoverflow.com/questions/10950202/how-to-store-uuid-as-number)
+    + [Store UUID in an optimized way](https://www.percona.com/blog/2014/12/19/store-uuid-optimized-way/)
 
 # Cache
 + [Codis作者黄东旭细说分布式Redis架构设计和踩过的那些坑们](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=208733458&idx=1&sn=691bfde670fb2dd649685723f7358fea)
@@ -228,6 +235,11 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Token-Based Authentication With AngularJS & NodeJS](http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543): It works, but not optimal.
 + [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/index.html)
 + [Success vs. Failure – The Importance of API Metrics](http://nordicapis.com/success-vs-failure-the-importance-of-api-metrics/)
++ Heroku API
+    + [Getting Started with the Platform API](https://devcenter.heroku.com/articles/platform-api-quickstart)
+    + [Heroku CLI Authentication](https://devcenter.heroku.com/articles/authentication)
+    + [OAuth](https://devcenter.heroku.com/articles/oauth)
+    + [Platform API Reference](http://swagger.io/specification/)
 
 # Web
 + [Web开发中需要了解的东西](http://coolshell.cn/articles/6043.html): Web开发纲领
@@ -349,6 +361,13 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
     + Sixty-four cores or 128 cores on a single chip looks a lot like 64 machines or 128 machines in a data center.
     + We wanted people to be able to program for the data center just like they program for their laptop.
     + VMs are not good abstraction for application developers.
++ Consistency and availability
+    + [Coda File System](https://www.cs.cmu.edu/~satya/docdir/satya-ieeetc-coda-1990.pdf)
+        + How to achieve HA at the expense of consistency
+        + How disconnected operations work
+    + [Bayou](http://dl.acm.org/citation.cfm?id=224070)
++ Replication
+    + [The Dangers of Replication and a Solution](http://dl.acm.org/citation.cfm?id=233330)
 
 # Storage
 + [The Design and Implementation of a Log-Structured File System](https://www.cs.berkeley.edu/~brewer/cs262/LFS.pdf)
