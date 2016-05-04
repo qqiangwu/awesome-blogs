@@ -23,6 +23,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Building Globally Distributed, Mission Critical Applications](http://highscalability.com/blog/2015/8/31/building-globally-distributed-mission-critical-applications.html)
 + [CAP Twelve Years Later: How the "Rules" Have Changed](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
 + [The Consistency Alphabet Soup](http://hackingdistributed.com/2013/03/23/consistency-alphabet-soup/): What does C in CAP and ACID mean?
++ [CAP理论的质疑](http://blog.csdn.net/chen77716/article/details/30635543)
 
 # Database
 + [Redis In Action](http://www.amazon.com/Redis-Action-Josiah-L-Carlson/dp/1617290858)
@@ -272,6 +273,14 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 # CSS
 + [CSS 核心概念](http://www.geekplux.com/2014/04/25/several_core_concepts_of_css.html)
 + [从 BEM 谈大型项目中 CSS 的组织和管理](http://www.ibm.com/developerworks/cn/web/1512_chengfu_bem/index.html)
++ [BEM Introduction](http://getbem.com)
++ [Generating BEM selectors with CSS preprocessors](http://frontendbabel.info/articles/bem-with-css-preprocessors/)
++ [BEM 101](https://css-tricks.com/bem-101/)
++ [Style guideline](http://primercss.io/guidelines/)
++ [**‘Why BEM?’ in a nutshell**](https://blog.decaf.de/2015/06/24/why-bem-in-a-nutshell/): in the functional perspective.
++ [MindBEMding – getting your head ’round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/): in the non-functional perspective.
++ [**Scaling Down The BEM Methodology For Small Projects**](https://www.smashingmagazine.com/2014/07/bem-methodology-for-small-projects/)
++ [Creating BEM Stylesheets for React Components](http://engineering.wework.com/frontend/2015/10/19/creating-bem-stylesheets-for-react-components/)
 
 # Javascript
 + [A guide to publishing JavaScript open source projects](http://www.conductor.com/nightlight/guide-publishing-javascript-open-source-projects/)
