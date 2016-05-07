@@ -46,6 +46,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
     + [Do not use GUID as PKs](http://stackoverflow.com/a/7578500)
     + [How to store uuid as number?](http://stackoverflow.com/questions/10950202/how-to-store-uuid-as-number)
     + [Store UUID in an optimized way](https://www.percona.com/blog/2014/12/19/store-uuid-optimized-way/)
++ Spanner
+    + [Blog: Spanner: Google's Globally-Distributed Database](http://muratbuffalo.blogspot.com/2013/07/spanner-googles-globally-distributed_4.html)
 
 # Cache
 + [Codis作者黄东旭细说分布式Redis架构设计和踩过的那些坑们](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=208733458&idx=1&sn=691bfde670fb2dd649685723f7358fea)
@@ -257,6 +259,20 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [关于URL编码](http://www.ruanyifeng.com/blog/2010/02/url_encoding.html)
 + [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 + [rel="shortcut icon" considered harmful](https://mathiasbynens.be/notes/rel-shortcut-icon)
++ React
+    + [React application data-flow: Where and how to store your data?](http://codeutopia.net/blog/2016/02/01/react-application-data-flow-where-and-how-to-store-your-data/)
+    + [The Reflux data flow model](http://blog.krawaller.se/posts/the-reflux-data-flow-model/)
+    + [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
+    + [The ReactJS Controller View Pattern](http://blog.andrewray.me/the-reactjs-controller-view-pattern/)
+    + [You're Missing The Point Of JSX](http://blog.andrewray.me/youre-missing-the-point-of-jsx/)
+    + [Flux For Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
+    + [In Flux architecture, how do you manage Store lifecycle?](http://stackoverflow.com/questions/23591325/in-flux-architecture-how-do-you-manage-store-lifecycle)
++ React Practice
+    + [Mostly reasonable patterns for writing React on Rails](https://github.com/planningcenter/react-patterns)
+    + [React.js Best Practices for 2016](https://blog.risingstack.com/react-js-best-practices-for-2016/)
+    + [Tutorial – Chat](http://facebook.github.io/flux/docs/chat.html#content)
+    + [Creating A Simple Shopping Cart with React.js and Flux](https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux)
+    + [React and Flux practice inside Facebook](http://ianobermiller.com/blog/2014/09/15/react-and-flux-interview/)
 
 # EnterpriseApplication
 + [领域驱动设计(Domain Driven Design)参考架构详解](http://m.oschina.net/blog/538568)
