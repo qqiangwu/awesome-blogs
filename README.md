@@ -5,6 +5,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + Network
     + [TCP 的那些事儿](http://coolshell.cn/articles/11564.html)
     + [集線器(Hub)、交換器(Switch)、IP分享器、路由器(Router)的差別](http://bluemuta38.pixnet.net/blog/post/45543357-%E9%9B%86%E7%B7%9A%E5%99%A8(hub)%E3%80%81%E4%BA%A4%E6%8F%9B%E5%99%A8(switch)%E3%80%81ip%E5%88%86%E4%BA%AB%E5%99%A8%E3%80%81%E8%B7%AF%E7%94%B1%E5%99%A8)
++ Memory Model
+    + [Java Memory Model From a Programmer's Point-of-View](https://dzone.com/articles/java-memory-model-programer%E2%80%99s)
 
 # Learning
 + [Martyr2'S Mega Project Ideas List!](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
@@ -48,6 +50,13 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
     + [Store UUID in an optimized way](https://www.percona.com/blog/2014/12/19/store-uuid-optimized-way/)
 + Spanner
     + [Blog: Spanner: Google's Globally-Distributed Database](http://muratbuffalo.blogspot.com/2013/07/spanner-googles-globally-distributed_4.html)
++ Mongo
+    + [Sharding](https://docs.mongodb.com/manual/sharding/)
+    + [Replication](https://docs.mongodb.com/manual/replication/)
++ SQL Sharding
+    + [每秒十万笔写](http://dbaplus.cn/news-21-420-1.html)
++ SQL Basic
+    + [数据库杂谈之：如何优雅的进行表结构设计](https://zhuanlan.zhihu.com/p/20785905)
 
 # Cache
 + [Codis作者黄东旭细说分布式Redis架构设计和踩过的那些坑们](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=208733458&idx=1&sn=691bfde670fb2dd649685723f7358fea)
@@ -166,6 +175,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Twitter](http://www.infoq.com/presentations/Real-Time-Delivery-Twitter)
 + [淘宝的消息中间件(2013)](http://segmentfault.com/a/1190000003059871)
 + [阿里分布式开放消息服务(ONS)原理与实践_沈询](http://v.youku.com/v_show/id_XODY5ODcxNjI0.html)
++ RocketMQ
+    + [RocketMQ与Kafka对比（18项差异）](https://github.com/alibaba/RocketMQ/wiki/rmq_vs_kafka)
 
 # Miscro-service
 + [All About Miscroservice](http://martinfowler.com/microservices/)
@@ -260,6 +271,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 + [rel="shortcut icon" considered harmful](https://mathiasbynens.be/notes/rel-shortcut-icon)
 + React
+    + [抛开 React 学习 React](http://qianduan.guru/2016/03/27/Learning-React-Without-Using-React-Part1/)
     + [React application data-flow: Where and how to store your data?](http://codeutopia.net/blog/2016/02/01/react-application-data-flow-where-and-how-to-store-your-data/)
     + [The Reflux data flow model](http://blog.krawaller.se/posts/the-reflux-data-flow-model/)
     + [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
