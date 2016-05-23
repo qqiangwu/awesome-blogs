@@ -343,6 +343,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Exception-Handling Antipatterns Blog](https://community.oracle.com/docs/DOC-983543)
 + [Failure and Exceptions](http://www.artima.com/intv/solidP.html)
 + [Ten practices for perfect Java Exception handling](http://literatejava.com/exceptions/ten-practices-for-perfect-java-exception-handling/)
++ [Java Exception Handling](http://tutorials.jenkov.com/java-exception-handling/index.html)
++ [Exception Handling Strategies](http://tutorials.jenkov.com/exception-handling-strategies/index.html)
 
 # Tools
 + [「Githug」Git 游戏通关流程](http://www.jianshu.com/p/482b32716bbe)
