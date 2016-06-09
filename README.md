@@ -7,6 +7,11 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
     + [集線器(Hub)、交換器(Switch)、IP分享器、路由器(Router)的差別](http://bluemuta38.pixnet.net/blog/post/45543357-%E9%9B%86%E7%B7%9A%E5%99%A8(hub)%E3%80%81%E4%BA%A4%E6%8F%9B%E5%99%A8(switch)%E3%80%81ip%E5%88%86%E4%BA%AB%E5%99%A8%E3%80%81%E8%B7%AF%E7%94%B1%E5%99%A8)
 + Memory Model
     + [Java Memory Model From a Programmer's Point-of-View](https://dzone.com/articles/java-memory-model-programer%E2%80%99s)
++ Database
+    + [Traditionally RDBMS wisdom](http://hpts.ws/papers/2013/allwrong.pdf)
+    + [大家设计数据库时使用外键吗？](https://www.zhihu.com/question/19600081)
+    + [分布式系统里用户ID生成有什么好的方法和规则能满足“唯一、尽量短、不能直接看出规则”这几个条件?](https://www.zhihu.com/question/20180484)
+        + [Sharding & IDs at Instagram](http://instagram-engineering.tumblr.com/post/10853187575/sharding-ids-at-instagram)
 
 # Learning
 + [Martyr2'S Mega Project Ideas List!](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
