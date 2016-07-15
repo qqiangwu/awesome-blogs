@@ -259,6 +259,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
     + [Heroku CLI Authentication](https://devcenter.heroku.com/articles/authentication)
     + [OAuth](https://devcenter.heroku.com/articles/oauth)
     + [Platform API Reference](http://swagger.io/specification/)
++ [PayPal RESTful guidelines](https://github.com/paypal/api-standards/blob/master/api-style-guide.md)
 
 # Web
 + [Web开发中需要了解的东西](http://coolshell.cn/articles/6043.html): Web开发纲领
