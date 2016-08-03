@@ -304,6 +304,10 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # Tricks
 + [YouTube Strategy: Adding Jitter Isn't A Bug](http://highscalability.com/blog/2012/4/17/youtube-strategy-adding-jitter-isnt-a-bug.html)
++ [Micro Batching](http://tutorials.jenkov.com/java-performance/micro-batching.html)
++ Zero Allocation
+    + [Stackoverflow](http://stackoverflow.com/questions/33656936/java-zero-allocation)
+    + [Zero allocation patterns in Java](https://elecodev.wordpress.com/2015/07/07/zero-allocation-patterns/)
 
 # CSS
 + [CSS 核心概念](http://www.geekplux.com/2014/04/25/several_core_concepts_of_css.html)
