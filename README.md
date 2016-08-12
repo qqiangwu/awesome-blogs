@@ -344,6 +344,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [Spring @Enable*](http://blog.fawnanddoug.com/2012/08/how-those-spring-enable-annotations-work.html)
 + [StringBuilder在高性能场景下的正确用法](http://calvin1978.blogcn.com/articles/stringbuilder.html)
 + Performance
+    + [Java performance tuning tips](http://java-performance.com/)
     + [An overview of memory saving techniques in Java](http://java-performance.info/overview-of-memory-saving-techniques-java/)
 
 # Python
