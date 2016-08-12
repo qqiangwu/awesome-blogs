@@ -308,6 +308,9 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + Zero Allocation
     + [Stackoverflow](http://stackoverflow.com/questions/33656936/java-zero-allocation)
     + [Zero allocation patterns in Java](https://elecodev.wordpress.com/2015/07/07/zero-allocation-patterns/)
++ Marker Interface
+    + [Wiki](https://en.wikipedia.org/wiki/Marker_interface_pattern)
+    + [What is Marker interfaces in Java and why required](https://javarevisited.blogspot.com/2012/01/what-is-marker-interfaces-in-java-and.html)
 
 # CSS
 + [CSS 核心概念](http://www.geekplux.com/2014/04/25/several_core_concepts_of_css.html)
