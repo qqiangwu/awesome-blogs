@@ -26,6 +26,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [铁路订票系统的简单设计](http://blog.codingnow.com/2012/01/ticket_queue.html)
 
 # Distributed System
++ [**Introduction to Distributed System Design**](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
 + [Building Globally Distributed, Mission Critical Applications](http://highscalability.com/blog/2015/8/31/building-globally-distributed-mission-critical-applications.html)
 + [CAP Twelve Years Later: How the "Rules" Have Changed](http://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
