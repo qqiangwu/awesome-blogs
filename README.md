@@ -12,6 +12,9 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
     + [大家设计数据库时使用外键吗？](https://www.zhihu.com/question/19600081)
     + [分布式系统里用户ID生成有什么好的方法和规则能满足“唯一、尽量短、不能直接看出规则”这几个条件?](https://www.zhihu.com/question/20180484)
         + [Sharding & IDs at Instagram](http://instagram-engineering.tumblr.com/post/10853187575/sharding-ids-at-instagram)
+    + Transaction
+        + [Distributed transactions in Spring, with and without XA](http://www.javaworld.com/article/2077963/open-source-tools/distributed-transactions-in-spring--with-and-without-xa.html)
+        + [Understanding transaction pitfalls](http://www.ibm.com/developerworks/java/library/j-ts1/index.html)
 
 # Learning
 + [Martyr2'S Mega Project Ideas List!](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
