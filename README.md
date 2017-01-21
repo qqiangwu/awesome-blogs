@@ -188,7 +188,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + RocketMQ
     + [RocketMQ与Kafka对比（18项差异）](https://github.com/alibaba/RocketMQ/wiki/rmq_vs_kafka)
 
-# Miscro-service
+# Micro-service
 + [All About Miscroservice](http://martinfowler.com/microservices/)
 + [Microservice testing](http://martinfowler.com/articles/microservice-testing)
 + [Microservice vs SOA](http://martinfowler.com/bliki/ServiceOrientedAmbiguity.html)
@@ -224,6 +224,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [API Caching](https://www.fastly.com/blog/api-caching-part-i): Caching your restful APIs
 + [大型网站架构系列：负载均衡详解（上）](http://blog.jobbole.com/97957/)
 + [大型网站架构系列：负载均衡详解（下）](http://blog.jobbole.com/97960/)
++ [an-introduction-to-haproxy-and-load-balancing-concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts)
 
 # Container
 + [Docker in the Real World at Yelp](http://engineeringblog.yelp.com/2015/08/docker-in-the-real-world-at-yelp.html)
