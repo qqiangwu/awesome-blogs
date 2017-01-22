@@ -66,6 +66,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
     + [每秒十万笔写](http://dbaplus.cn/news-21-420-1.html)
 + SQL Basic
     + [数据库杂谈之：如何优雅的进行表结构设计](https://zhuanlan.zhihu.com/p/20785905)
++ [是时候选择NewSQL数据库了](http://wetest.qq.com/lab/view/258.html): By 黄东旭，良心推荐
 
 # Cache
 + [Codis作者黄东旭细说分布式Redis架构设计和踩过的那些坑们](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=208733458&idx=1&sn=691bfde670fb2dd649685723f7358fea)
