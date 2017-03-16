@@ -74,6 +74,8 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 + [In-Process Caching vs. Distributed Caching](https://dzone.com/articles/process-caching-vs-distributed)
 + [In-Process Caching vs. External Caching](http://www2.sys-con.com/itsg/virtualcd/java/archives/0804/thomas2/index.html)
 + [浅谈Web缓存](http://www.alloyteam.com/2016/03/discussion-on-web-caching/): 必读
++ [缓存更新的套路](http://coolshell.cn/articles/17416.html)
++ [缓存使用与设计系列文章](http://carlosfu.iteye.com/blog/2269678)
 
 # 4-Tiers
 + [Mobile Needs A Four-Tier Engagement Platform](http://blogs.forrester.com/ted_schadler/13-11-20-mobile_needs_a_four_tier_engagement_platform)
