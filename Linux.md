@@ -13,3 +13,6 @@
 
 # Memory
 + [Anatomy of Linux dynamic libraries](https://www.ibm.com/developerworks/library/l-dynamic-libraries/)
+
+# Tools
++ [vim入门](http://www.jianshu.com/p/2f9ab65776d4)
