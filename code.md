@@ -1,5 +1,6 @@
 # Programming
 + [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/): Classes are good at compositing function atoms.
++ [编程的智慧](http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy)：王垠出品
 
 ## API Design
 + [千万不要把 bool 设计成函数参数](http://coolshell.cn/articles/5444.html)
