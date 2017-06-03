@@ -36,3 +36,6 @@
 + Transaction
     + [Distributed transactions in Spring, with and without XA](http://www.javaworld.com/article/2077963/open-source-tools/distributed-transactions-in-spring--with-and-without-xa.html)
     + [Understanding transaction pitfalls](http://www.ibm.com/developerworks/java/library/j-ts1/index.html)
+
+# 分布式事务
++ [以交易系统为例，看分布式事务架构的五大演进](http://dbaplus.cn/news-21-1175-1.html)
