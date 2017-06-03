@@ -135,6 +135,7 @@
 + [5 Steps to Better Application Logging](http://www.miyagijournal.com/articles/five-steps-application-logging/)
 + [Logging best practices](http://dev.splunk.com/view/logging-best-practices/SP-CAAADP6)
 + [Unified Logging Layer: Turning Data into Action](http://www.fluentd.org/blog/unified-logging-layer)
++ [Log:被BigData遗忘的奠基者](https://mp.weixin.qq.com/s/KtL3AH_xCnXjbbSGzI4gVg)：虽然挺虚的，但值得强调
 
 # BI
 + [大数据环境下互联网行业数据仓库/数据平台的架构之漫谈](http://lxw1234.com/archives/2015/08/471.htm)
