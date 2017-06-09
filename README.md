@@ -3,6 +3,7 @@ The followings are awesome blogs or books I've read. I deem that they will be wo
 
 # List
 + [Architecture](./architecture.md)
++ [Architecture In Action](./arch-in-action.md)
 + [Coding](./code.md)
 + [Concurrency](./concurrency.md)
 + [Databases](./database.md)
