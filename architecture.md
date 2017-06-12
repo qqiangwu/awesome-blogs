@@ -32,6 +32,7 @@
     + [前后端分离-自动化打包](http://bbear.me/bu-yong-kai-fa-mo-shi-de-zi-dong-hua-bu-shu/)
     + [前后端分离](http://ued.taobao.org/blog/tag/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB/)
     + [Building High Performance Web](https://read.douban.com/ebook/1410608/)
++ [有赞应用层网关剖析](http://tech.youzan.com/gateway/)
 
 # Cloud App
 + [The Twelve-factor Apps](http://12factor.net/)
