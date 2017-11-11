@@ -1,3 +1,6 @@
+# Coordination
++ [Zookeeper: 分布式过程协同技术详解](http://www.dengshenyu.com/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/2017/11/01/zookeeper.html)：ZK概览，入门值得一看，中间选举与原子广播讨论得不太清楚。
+
 # Distributed System
 + [**Introduction to Distributed System Design**](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html)
 + [Understanding CAP](http://henryr.github.io/cap-faq/)
