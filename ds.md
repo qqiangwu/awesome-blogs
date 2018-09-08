@@ -20,3 +20,4 @@
 
 # Storage
 + [The Design and Implementation of a Log-Structured File System](https://www.cs.berkeley.edu/~brewer/cs262/LFS.pdf)
++ [Percolator导读](http://www.importnew.com/2896.html)：TiKV的灵感来源之一
