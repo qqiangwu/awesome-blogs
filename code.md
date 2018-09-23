@@ -11,6 +11,7 @@
 + [An Approach to Internal Domain-Specific Languages in Java](http://www.infoq.com/articles/internal-dsls-java)
 + [CommandQuerySeparation](http://martinfowler.com/bliki/CommandQuerySeparation.html)
 + [ExpressionBuilder](http://martinfowler.com/bliki/ExpressionBuilder.html)
++ [写了这么多年代码，你真的了解SOLID吗？](https://insights.thoughtworks.cn/do-you-really-know-solid/): Thoughtworks出口，还是值得一看的
 
 # Tricks
 + [Micro Batching](http://tutorials.jenkov.com/java-performance/micro-batching.html)
