@@ -21,3 +21,6 @@
 # Storage
 + [The Design and Implementation of a Log-Structured File System](https://www.cs.berkeley.edu/~brewer/cs262/LFS.pdf)
 + [Percolator导读](http://www.importnew.com/2896.html)：TiKV的灵感来源之一
+
+# HBase
++ [HBase高性能随机查询之道 – HFile原理解析](http://www.nosqlnotes.com/technotes/hbase/hfile/): 读代码之前，一定要先知道，我需要解决这个问题，应该写什么样的代码；而不是，这段代码在解决什么问题
