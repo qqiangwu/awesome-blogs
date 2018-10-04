@@ -21,3 +21,6 @@
 + Marker Interface
     + [Wiki](https://en.wikipedia.org/wiki/Marker_interface_pattern)
     + [What is Marker interfaces in Java and why required](https://javarevisited.blogspot.com/2012/01/what-is-marker-interfaces-in-java-and.html)
+    
+# Error handling
++ [When and How to Use Exceptions](http://www.drdobbs.com/when-and-how-to-use-exceptions/184401836)
