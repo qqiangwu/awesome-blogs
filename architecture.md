@@ -108,6 +108,7 @@
 
 # Cloud Messaging
 + [Evolution of AMQP at SoundCloud](http://www.infoq.com/presentations/amqp-soundcloud)
++ [每天处理几十亿条消息：Yelp的实时数据管道](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247486447&amp;idx=1&amp;sn=1559da43fcea998ae281f2ab54aa8263&source=41#wechat_redirect)
 
 # Realtime application basis
 + [600k concurrent websocket connections on AWS using Node.js](http://www.jayway.com/2015/04/13/600k-concurrent-websocket-connections-on-aws-using-node-js/)
