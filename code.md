@@ -24,3 +24,4 @@
     
 # Error handling
 + [When and How to Use Exceptions](http://www.drdobbs.com/when-and-how-to-use-exceptions/184401836)
++ [Handling errors is canceling operations](https://akrzemi1.wordpress.com/2019/04/25/handling-errors-is-canceling-operations/)
